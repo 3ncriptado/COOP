@@ -1,0 +1,1733 @@
+﻿OFICINA PRESIDENCIAL DE TECNOLOGÍAS 
+DE LA INFORMACIÓN Y COMUNICACIÓN
+
+DIRECCIÓN GENERAL DE ÉTICA E INTEGRIDAD 
+GUBERNAMENTAL
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+Santo Domingo, República Dominicana
+Mayo, 2018
+
+
+
+NORTIC A3-2:2018
+Guía de Uso del Portal de Datos Abiertos del Gobierno Dominicano
+Edición: 1era
+
+Oficina Presidencial de Tecnologías de la Información y Comunicación (OPTIC)
+Departamento de Estandarización, Normativas y Auditoría Técnica
+
+Dirección de Ética e Integridad Gubernamental (DIGEIG)
+Departamento de Transparencia Gubernamental
+
+Fecha de aprobación: Abril 2018
+Fecha de lanzamiento: Mayo 2018
+
+Categoría: A
+Serie de documento: 3
+Año de publicación: 2018
+Versión 0.1.0
+Documento Elaborado por OPTIC para la DIGEIG
+
+Diagramado y Diseñado por el Departamento de Comunicaciones, OPTIC.
+Impreso en República Dominicana
+
+
+
+NORTIC A3-2:2018
+
+CCOONNTTEENNIDIDOO
+
+INTRODUCCIÓN...............................................................V
+SECCIÓN 1 
+ROLES DE LOS ORGANISMOS INVOLUCRADOS.................7
+
+SECCIÓN 2 
+INTERFAZ GENERAL DEL PORTAL DE DATOS 
+ABIERTOS.................................................................................11
+
+Sub-sección 2.01.  Página Principal del Portal de 
+	  Datos Abiertos..........................................12
+      Apartado 2.01.1.  Encabezado de la Página Principal......12
+      Apartado 2.01.2.  Cuerpo de la Página Principal............14
+      Apartado 2.01.3.  Pie de la Página....................................15
+
+SECCIÓN 3     
+ CREACIÓN Y CONFIGURACIÓN DE CUENTAS DE 
+USUARIOS Y ORGANIZACIONES EN EL PORTAL DE 
+DATOS ABIERTOS...................................................................17
+
+Sub-sección 3.01.  Creación de Cuentas de Usuario.............18
+Sub-sección 3.02.  Panel de Control y Configuración de    
+
+    Cuenta de Usuario...................................19
+      Apartado 3.02.1.  Panel de Control.................................20
+      Apartado 3.02.2.  Configuración de Cuenta de  
+
+       Usuario...............................................21
+Sub-sección 3.03.  Generación de Organizaciones en el Portal 
+
+  de Datos Abiertos....................................24
+SECCIÓN 4 
+CREACIÓN, ENLACE Y PUBLICACIÓN DE CONJUNTOS 
+Y RECURSOS DE DATOS EN EL PORTAL DE DATOS 
+ABIERTOS.................................................................................27
+
+Sub-sección 4.01. Requisitos Previos.....................................27
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano iii
+
+
+
+NORTIC A3-2:2018
+
+Sub-sección 4.02.  Creación de Conjuntos de Datos.............28
+Sub-sección 4.03.	 Publicación, Actualización y Maduración   
+
+ de los Conjuntos de Datos.......................43
+       Apartado 4.03.1.  Publicación de los Datos Abiertos....43
+       Apartado 4.03.2.  Actualización de los Datos Abiertos...44
+       Apartado 4.03.3.  Maduración de los Datos Abiertos...45
+
+GLOSARIO DE TÉRMINOS...............................................46
+ABREVIATURAS Y ACRÓNIMOS.....................................50
+EQUIPO DE TRABAJO......................................................53
+
+iv Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+INTRODUCCIÓN
+
+La Guía de Usuario del Portal de Datos Abiertos del Gobierno 
+Dominicano es un documento que establece pautas que orientan 
+a los organismos del Estado en el proceso de cumplimiento de 
+la Norma sobre Publicación de Datos Abiertos del Gobierno 
+Dominicano (NORTIC A3:2014), indicando de manera secuencial 
+y ordenada los procesos de creación, configuración y enlace de 
+los recursos y conjuntos de datos referentes a las informaciones 
+estadísticas relevantes y de interés general, de manera que estas sean 
+más fáciles de encontrar y reutilizar de forma eficiente a través del 
+portal de Datos Abiertos del Estado datos.gob.do. 
+
+Cuando se habla de Datos Abiertos, se refiere a datos estructurados 
+de forma tal, que pueden ser utilizados, reutilizados y redistribuidos 
+libremente por cualquier persona, y que se encuentran sujetos, 
+cuando más, al requerimiento de atribución y de compartirse de la 
+misma manera en que aparecen.
+
+La primera sección de esta guía, comprende los roles de los 
+involucrados de lograr su cumplimiento en toda la administración 
+pública, tanto como las responsabilidades de manera general de 
+todos los organismos del ámbito administrativo gubernamental y 
+gobiernos locales, incluyendo aquellos que están físicamente dentro 
+del territorio dominicano, como aquellos que se encuentran fuera, 
+como las embajadas, consulados y misiones en el extranjero y, de 
+manera referencial, para los demás Poderes del Estado.
+
+La siguiente sección, tiene como objetivo orientar al usuario sobre la 
+organización de las funcionalidades que la interfaz central del portal 
+
+Guía de Uso del Portal de Datos Abiertos v
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+oficial de Datos Abiertos ofrece, de manera que la experiencia de 
+este sea clara y precisa en la navegación.
+
+En la tercera sección, se presentan los pasos a seguir para la correcta 
+creación y configuración de usuario, así como la generación 
+de organismo en el portal de datos. Esto permite que el o los 
+responsables de gestionar la interfaz y mantener los recursos por parte 
+del organismo, puedan obtener acceso a su perfil en la plataforma, 
+dependiendo su nivel de autorización como miembro.
+
+La sección final, establece la metodología a seguir posterior a la 
+creación del organismo para iniciar el proceso de creación de 
+conjuntos y enlace de sus recursos de datos en el portal, con el 
+objetivo de que los miembros puedan lograr de forma ágil y efectiva 
+la publicación y actualización de datos concernientes al mismo y 
+estos se encuentren en disposición adecuada para su reutilización por 
+parte de la sociedad civil, las empresas privadas u otros organismos 
+gubernamentales.
+
+vi Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+Sección 1 
+
+ROLES DE LOS ORGANISMOS 
+INVOLUCRADOS
+
+Dirección General de Ética e Integridad Gubernamental (DIGEIG)
+
+Organismo creado mediante el Decreto 486-12, en el año 2012, con 
+la finalidad de ser el órgano rector en materia de ética, transparencia, 
+gobierno abierto, lucha contra la corrupción, conflicto de interés y libre 
+acceso a la información en el ámbito administrativo gubernamental. 
+
+Entre los roles que les compete como órgano rector en esta materia se 
+encuentran, la estructuración de los recursos de manera reutilizable, el 
+enlace de los mismos al portal de Datos, y en su defecto la supervisión 
+del cumplimiento por parte de los organismos del Estado dominicano 
+con el derecho ciudadano del libre acceso a la información pública.
+
+Oficina Presidencial de Tecnologías de la Información y de la 
+Comunicación (OPTIC)
+
+Institución con dependencia del poder ejecutivo, creada en el año 2004 
+mediante el Decreto Núm. 1090-04, con la responsabilidad de planificar, 
+dirigir y ejecutar las acciones necesarias para implementar el Gobierno 
+Electrónico en el país mediante la difusión y uso de las Tecnologías de 
+la Información y Comunicación (TIC).
+
+La OPTIC, mediante el Decreto Núm. 709-07 Sobre Normas y 
+Estándares, tiene el rol de instruir y acompañar a los organismos del 
+Estado, a través de su Departamento de Estandarización, Normativas 
+y Auditoría Técnica, en el proceso de implementación de las Normas 
+
+Guía de Uso del Portal de Datos Abiertos 7
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+sobre Tecnologías de la Información y Comunicación (NORTIC), en 
+sus diferentes fases de consultoría, auditoría y posterior certificación bajo 
+los estándares que estas establecen. Dentro de estas normas se encuentra 
+la NORTIC A3 sobre la Publicación de Datos Abiertos, de cara a 
+fortalecer los mecanismos de transparencia y acceso a la información 
+del Estado dominicano y empoderamiento del ciudadano.
+
+Organismos del Estado Dominicano
+
+Cuando se habla de los organismos del Estado dominicano, se refiere 
+a todos los organismos del ámbito administrativo gubernamental, 
+incluyendo aquellos que están físicamente dentro del territorio 
+dominicano, como aquellos que se encuentran fuera, los cuales, 
+a su vez como lo estipula el Artículo Núm. 2 sobre colaboración de 
+las Instituciones del Decreto Núm. 486-12, son responsables del 
+cumplimiento del derecho ciudadano a recibir información de interés 
+público a través de la difusión de sus informaciones y estadísticas que 
+estos generen.
+
+La Administración Pública del Estado dominicano debe ofrecer 
+colaboración plena en el cumplimiento con las normas y los estándares 
+tecnológicos de la Oficina Presidencial de Tecnología de la Información 
+y de la Comunicación (OPTIC), como lo instruye el Decreto Núm. 709-
+07 Sobre Normas y Estándares.
+
+8 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 9
+
+Flujo para el uso del portal de Datos Abiertos datos.gob.do
+
+1 2 3
+Crear cuenta Configurar la cuenta Solicitar a la DIGEIG la 
+
+de usuario de usuario creación de la organización
+(Subsección 3.01) (Apartado 3.02.2) (Subsección 3.03)
+
+6 5 4
+Actualización de los Públicación de los conjuntos Creación de conjuntos 
+conjuntos de datos  de datos de datos
+(Apartado 4.03.2) (Apartado 4.03.1) (Apartado 4.02)
+
+S
+
+
+
+
+
+
+Sección 2 
+
+ INTERFAZ GENERAL DEL 
+                       PORTAL DE DATOS ABIERTOS
+Esta sección detalla de manera general los elementos que forman 
+parte del portal de datos abiertos del gobierno dominicano, www.
+datos.gob.do, es decir, aquellos elementos que son visibles al 
+momento de acceder al portal y cuáles usos ofrecen al usuario para 
+encontrar conjuntos de datos sobre un tema, sector u organismo 
+específico.
+
+Figura 2.1 Página Principal del Portal de Datos Abiertos
+
+Guía de Uso del Portal de Datos Abiertos 11
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+Sub-sección 2.01.    		           Página Principal	
+			           del Portal de Datos Abiertos
+
+La página principal del portal de datos abiertos, como se muestra 
+en la Figura 2.1 Página Principal del Portal de Datos Abiertos, 
+pone a disponibilidad de los usuarios las opciones que les permitirán 
+obtener las informaciones que necesitan en un formato reutilizable. 
+Estas opciones y sus funcionalidades se encuentran en toda la 
+estructura de la página principal y se describen detalladamente en 
+los siguientes apartados.
+
+Apartado 2.01.1.                      Encabezado de la Página Principal 
+
+Figura 2.2 Encabezado de la Página Principal
+
+El encabezado de la página inicial del portal de datos abiertos, como 
+se muestra en la Figura 2.2 Encabezado de la Página Principal, 
+contiene opciones y secciones que permiten a los usuarios realizar 
+diferentes tipos de búsqueda sobre conjuntos de datos y obtener 
+información sobre el portal de Datos Abiertos y la NORTIC 
+A3:2014, tal y como se describe a continuación:
+
+(a)  La sección “Conjuntos de Datos”: en la que el usuario 
+puede realizar búsquedas enfocadas a los conjuntos de 
+datos, permitiendo agregar filtros de organizaciones, 
+grupos, etiquetas, formatos, licencias y organizarlos por su 
+relevancia.  
+
+(b)  La sección “Organizaciones”: permite al usuario explorar y 
+buscar entre todas las organizaciones que se han creado en 
+el portal de datos abiertos y permite ver los conjuntos de 
+datos que han publicado cada una de estas.
+
+12 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+(c)  La sección “Grupos”: la cual se enfoca en ofrecer a los 
+usuarios la opción de buscar entre colecciones de conjuntos 
+de datos categorizadas según los temas importantes del 
+Estado como son los temas de Educación, Ciencia y 
+Tecnología, Medio Ambiente, Economía, entre otros.
+
+(d)  La sección “Acerca de”: es una sección informativa que 
+muestra datos generales acerca del portal de datos abiertos 
+del gobierno dominicano.
+
+(e)  La opción “Descargar la NORTIC A3”: permite al usuario 
+descargar la Norma sobre Publicación de Datos Abiertos 
+del Gobierno Dominicano (NORTIC A3), que rige la 
+manera en que deben publicarse los conjuntos de datos y 
+sus recursos, así como la actualización y disponibilidad de 
+los mismos.
+
+(f)  La sección “Registro”: permite a los usuarios crear sus 
+cuentas de usuario para gestionar y publicar datos a través 
+de las organizaciones.
+
+(g)  La sección “Iniciar Sesión”: permite a los usuarios utilizar 
+sus credenciales para acceder a la cuenta de usuario que 
+hayan creado previamente.
+
+(h)  La barra de búsqueda: funciona generalmente para buscar 
+cualquier tipo de información que se encuentre dentro del 
+portal. 
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 13
+
+
+
+NORTIC A3-2:2018
+
+Apartado 2.01.2.                            Cuerpo de la Página Principal
+
+Figura 2.3 Cuerpo de la Página Principal.
+
+En el cuerpo de la página principal del portal de datos abiertos, como 
+muestra la Figura 2.3 Cuerpo de la Página Principal, se presentan 2 
+elementos de acceso rápido para el usuario, los cuales se detallan de la 
+siguiente manera:
+
+(a)  La barra “Buscar Datos”: es una barra de búsqueda rápida que 
+permite a los usuarios buscar información utilizando nombres 
+de organizaciones, grupos, etiquetas o palabras clave, sin 
+tener que, necesariamente, acceder a una de las secciones del 
+encabezado.  
+
+(b)  La barra “Estadísticas”: ubicada en la parte inferior derecha del 
+cuerpo de la página inicial, Figura 2.4 Barra “Estadísticas”, 
+muestra las cantidades totales de la actividad de publicación 
+en el portal de datos abiertos, es decir, muestra la cantidad 
+de conjuntos actualmente publicados, así como la cantidad de 
+
+14 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+organismos activos y la cantidad de grupos creados en el portal 
+de datos, además al seleccionar estas opciones, el usuario 
+puede acceder a las secciones correspondientes donde puede 
+visualizar estos datos.
+
+Figura 2.4 Barra “Estadísticas”.
+
+Apartado 2.01.3.  		          Pie de la Página
+Figura 2.5 Pie de página.
+
+En el pie de la página principal del portal de datos abiertos se muestra 
+toda la información de contacto de la Dirección General de Ética e 
+Integridad Gubernamental (DIGEIG) quienes son los responsables 
+de la administración del mismo, además de informaciones adicionales 
+del portal como los Términos de Uso, Políticas de Privacidad y 
+Preguntas Frecuentes. Ver figura 2.5 Pie de página.
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 15
+
+
+
+
+
+
+Sección 3  
+ 
+
+CREACIÓN Y CONFIGURACIÓN DE CUENTAS DE 
+USUARIOS Y ORGANIZACIONES EN EL PORTAL DE 
+
+DATOS ABIERTOS
+
+Para que los organismos gubernamentales puedan crear, enlazar 
+y publicar datos en formato reutilizable, es necesario que tengan 
+presencia en el portal oficial para los datos abiertos del gobierno 
+dominicano, www.datos.gob.do. Para esto, uno de los primeros 
+pasos es la creación de una Cuenta de Usuario, la cual será utilizada 
+para crear conjuntos de datos, recursos y publicarlos a través de la 
+Organización, que será creada en el portal por la DIGEIG.
+
+Es importante hacer una diferenciación de ambos conceptos:
+
+•  Las Cuentas de Usuarios, son creadas por la persona del 
+organismo solicitante, quien es responsable de enlazar 
+y mantener actualizados los datos que se publiquen en 
+el portal de datos abiertos.
+
+•  Por otra parte, la Organización es la entidad que aparece 
+pública en el portal de datos abiertos y dentro de la 
+cual aparecen los datos publicados, esta es creada por la 
+DIGEIG, quien a su vez otorga los permisos necesarios 
+para que, mediante la Cuenta de Usuario la persona 
+responsable pueda administrar la Organización.
+
+Guía de Uso del Portal de Datos Abiertos 17
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+Sub-sección 3.01.       Creación de Cuentas de Usuario
+
+La creación de la cuenta de usuario es el primer paso para la 
+publicación de datos en formato reutilizable a través del portal de 
+datos abiertos del gobierno dominicano y para ello, deben ejecutar 
+los pasos que se muestran a continuación:
+
+1.  El responsable de la recolección y publicación de los datos en 
+formato reutilizable debe acceder al portal www.datos.gob.do.
+
+2.  Una vez en el portal, el responsable procederá a seleccionar la 
+opción “Registro” como se muestra en la Figura 3.1 Opción de 
+registro.
+
+Figura 3.1 Opción de registro.
+
+3.  El responsable debe proceder a llenar las opciones contenidas en el 
+formulario de registro que se muestra en la Figura 3.2 Registro de 
+cuenta de usuario, de la manera que se establece a continuación:
+
+(a)  El campo “nombre de usuario”: resaltado con el número 1, 
+debe llenarse utilizando las siglas del organismo, colocándose 
+todo en minúscula.
+
+(b)  El campo “nombre completo”: señalado con el número 2, 
+debe completarse con el nombre completo del organismo.
+
+18 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+(c)  El campo “Dirección de Correo Electrónico”: señalado con el 
+número 3, debe completarse utilizando un correo electrónico 
+personalizado, creado por el organismo y que tenga como 
+usuario la frase “Datos Abiertos”. A modo de ejemplo, el 
+correo electrónico a proveer debe tener la siguiente forma: 
+datosabiertos@dominiodelorganismo.gob.do. 
+
+(d)  En los campos “Contraseña” y “Confirmar”: deben colocarse 
+las palabras clave que se utilizarán para ingresar a la cuenta 
+creada.
+
+Figura 3.2 Registro de cuenta de usuario.
+
+/ Registro
+¿Por qué registrarse?
+
+Crear conjuntos de datos, Regístrese para una Cuenta
+grupos y otras cosas
+interesantes
+
+1 Nombre de nombre de usuario
+Usuario:
+
+2 Nombre
+Joe Bloggs
+
+Completo:
+
+3 Dirección de 
+correo joe@ejemplo.com
+
+electrónico:
+
+4 Contraseña: ********
+
+5 Confirmar: ********
+
+Crear Cuenta
+
+Sub-sección 3.02.    Panel de Control y Configuración 	
+				              de Cuenta de Usuario
+
+El portal de datos abiertos contiene opciones que permiten al 
+usuario registrado poder gestionar organizaciones, crear conjuntos 
+y recursos de datos, pudiendo posteriormente realizar la publicación 
+de los conjuntos de datos a través de la organización.
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 19
+
+
+
+NORTIC A3-2:2018
+
+Apartado 3.02.1.  				       Panel de Control
+
+Una vez finalizado el proceso de registro, el usuario registrado podrá 
+acceder al panel de control de la cuenta de usuario o pizarra (Ver 
+figura 3.3 Panel de control de la cuenta de usuario), desde el cual 
+puede visualizar todas las funcionalidades, historiales e información 
+del portal, como se muestra a continuación:
+
+(a)  La barra de acceso rápido (Número 1): se muestra en todas 
+las páginas visitadas, permitiendo el acceso rápido a las 
+opciones que se muestran en la tabla 3.1 Opciones de la 
+barra de acceso rápido.
+
+Tabla 3.1 Opciones de la barra de acceso rápido
+
+Nombre Completo de Usuario Enlace hacia el perfil de la Cuenta 
+de Usuario.
+
+0 Panel de Control de Cuenta de 
+Usuario o Pizarra.
+
+Configuración de la Cuenta de 
+Usuario.
+
+Cerrar Sesión. 
+
+(b)  Feed de noticias (Número 2): donde se muestran todas las 
+actividades realizadas por el usuario y organizaciones que el 
+usuario sigue dentro del portal.
+
+(c)  Mis conjuntos de datos (Número 3): que detalla todos los 
+conjuntos de datos que han sido creados por el usuario.
+
+(d)  Mis organizaciones (Número 4): sección en la que aparecen 
+todas las organizaciones que gestiona el usuario.
+
+(e)  Mis Grupos (Número 5): en el que se muestran aquellos 
+grupos de los cuales el usuario forma parte.
+
+20 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+(f)  Editar Opciones (Número 6): donde se ofrecen las 
+herramientas necesarias para cambiar el nombre de usuario, 
+nombre completo, correo electrónico, añadir biografía del 
+usuario y finalmente, el cambio de contraseña.
+
+Figura 3.3 Panel de Control de la Cuenta de Usuario.
+
+Nombre Completo de Usuario 0
+
+S República Domin1icana
+Conjunto de datos Organizaciones Grupos Acerca de DESCARGA LA NORTIC A3 Búsqueda
+
+/ Pizarra
+
+2 3 4 5 6
+Editar opciones
+
+Feed de Noticias Mis Conjuntos de Datos Mis organizaciones Mis Grupos
+
+Feed de Noticias Actividad de los elementos que Usted sigue  Actividad de: Todo
+
+Nombre Completo de Usuario actualizó su perfil hace 8 horas
+
+Nombre Completo de Usuario se registro hace 8 horas
+
+Apartado 3.02.2.                Configuración de Cuenta de Usuario
+
+Luego de haber realizado satisfactoriamente el registro de la cuenta 
+y desde el panel de control, el organismo debe configurar su cuenta 
+de usuario en dos lugares distintos del portal, como muestran los 
+pasos a continuación:
+
+1.  En Editar Opciones, identificado con el número 6 en la Figura 
+3.3 Panel de control de la cuenta de usuario, se tendrá acceso 
+a la Información de la Cuenta, donde el organismo deberá 
+agregar una breve biografía y una breve reseña con su función 
+principal en el campo “Acerca de”, marcado con el número 1 en 
+la Figura 3.4 Información de la cuenta de usuario.
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 21
+
+
+
+NORTIC A3-2:2018
+
+Figura 3.4 Información de la cuenta de usuario.
+
+/ Usuarios / Nombre Completo de Usuario / Administrar
+Información de la Cuenta
+
+Su perfil le permite a otros Cambie sus detalles
+usuarios de Ckan conocer
+acerca de usted y sobre lo Nombre de
+que hace. nombre de usuario
+
+Usuario:
+
+Nombre
+Completo: Nombre Completo del Organismo
+
+Dirección de 
+correo datosabiertos@ejemplo.com
+
+electrónico:
+
+1 Acerca de: Un poco de información acerca de Usted
+
+Puede usar formato markdown aquí
+
+2.  En la opción Enlace al perfil de la cuenta de usuario, ubicada en la 
+barra de acceso rápido, marcado con el número 1 en la Figura 3.3 
+Panel de control de la cuenta de usuario, el organismo procederá a 
+establecer su avatar o imagen de perfil haciendo clic en el recuadro 
+señalado con el número 1 de la Figura 3.5 Imagen de perfil de la 
+cuenta de usuario, tomando en cuenta lo siguiente:
+
+(a)  El perfil debe crearse en el portal de Gravatar, utilizando 
+la misma dirección de correo electrónica utilizada para 
+habilitar la cuenta usuario en el portal de datos abiertos.
+
+(b)  El avatar o imagen de perfil debe ser el logo del organismo 
+cumpliendo con los siguientes requerimientos:
+
+•  Debe mostrarse únicamente el isotipo del organismo, 
+centrado y con un fondo blanco.
+
+•  Para el caso de que el organismo no cuente con un 
+isotipo, se permitirá el logo con la menor cantidad de 
+detalles posibles.
+
+22 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+Figura 3.5 Imagen de Perfil de la Cuenta de Usuario.
+Nombre Completo de Usuario 0
+
+S República Dominicana
+Conjunto de datos Organizaciones Grupos Acerca de DESCARGA LA NORTIC A3 Búsqueda
+
+/ Usuarios / Nombre Completo del Organismo
+
+Conjuntos de Datos Flujo de Actividad Administrar
+
+No has creado ningún conjunto de datos
+
+1
+Nombre Completo del 
+Organismo
+Usted no ha provisto una 
+biografía
+
+Seguidores Conjunto de 
+
+0 datos
+
+0
+
+Luego de realizadas estas configuraciones, el perfil de la cuenta de 
+usuario queda completado y el mismo se podrá visualizar como se 
+ilustra en la Figura 3.6 Perfil completo de la cuenta de usuario, 
+como se muestra a continuación: 
+
+•  Se contará con el isotipo del organismo en la cuenta de 
+usuario, como se resalta con la letra A.
+
+•  Estará disponible una breve descripción sobre la cuenta 
+de usuario, como se resalta con la letra B.
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 23
+
+
+
+NORTIC A3-2:2018
+
+Figura 3.6 Imagen de Perfil Completo de la Cuenta de Usuario.
+
+Sub-sección 3.03.          Generación de Organizaciones 
+			          en el Portal de Datos Abiertos
+
+La generación de las organizaciones dentro del portal de datos 
+abiertos es una actividad y responsabilidad exclusiva de la DIGEIG. 
+Estos organismos son los que aparecen públicos en el portal de datos 
+abiertos en la sección “Organizaciones”.
+
+La DIGEIG, también se encarga de enlazar la Cuenta de Usuario 
+creada por el organismo con la Organización generada, de manera 
+que los organismos gubernamentales, a través de su cuenta de 
+usuario, puedan gestionar los conjuntos y recursos de datos que se 
+enlacen y se publiquen en la organización.
+
+(a)  El organismo gubernamental debe realizar una solicitud a 
+la DIGEIG para la generación de la organización. Para esto, 
+dicho organismo debe proveer las siguientes informaciones 
+y elementos:
+
+24 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+•  El nombre de la cuenta de usuario creada y configurada 
+según lo establecido en las subsecciones 3.01 y 3.02 de 
+esta guía.
+
+•  El organismo debe proveer un enlace desde su portal 
+institucional, que contenga un isotipo con las mismas 
+especificaciones del avatar o la imagen de perfil 
+establecidas en la directriz 3.02.2.2.b.
+
+•  Una breve descripción para la organización a generarse, 
+que debe contener los siguientes elementos:
+
+ºº Breve descripción del organismo.
+
+ºº Función principal del organismo.
+
+ºº Misión, Visión y Valores.
+
+Estas informaciones son entregadas a la DIGEIG y luego de 
+realizar las actividades mencionadas anteriormente, el organismo 
+gubernamental será capaz de gestionar la Organización creada 
+tomando en cuenta los lineamientos establecidos en el Capítulo III 
+de esta guía.
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 25
+
+
+
+
+
+
+Sección 4 
+
+CREACIÓN, ENLACE Y PUBLICACIÓN DE 
+CONJUNTOS Y RECURSOS DE DATOS EN EL 
+
+PORTAL DE DATOS ABIERTOS
+
+El funcionamiento del portal de datos abiertos se basa en la constante 
+publicación de datos de importancia sobre el funcionamiento 
+y gestión del Estado dominicano, razón por la cual es de gran 
+relevancia que los procesos de creación, enlace y publicación de los 
+datos se realice de manera correcta. Para esto se ha desarrollado esta 
+sección, en donde se detallan los pasos correspondientes para que un 
+organismo pueda realizar estas actividades de manera satisfactoria. 
+
+Sub-sección 4.01.  		                  Requisitos Previos 
+
+Previo al enlace y publicación de conjuntos y recursos de datos en el 
+portal de Datos Abiertos, es necesario que los datos que el organismo 
+pretende publicar cumplan con una serie de requisitos previos que 
+permitan asegurar la integridad y veracidad de los mismos con 
+relación a su capacidad para su reutilización e importancia.
+
+(a)  El organismo gubernamental debe asegurarse que sus 
+recursos cumplan con lo especificado en la Norma sobre 
+Publicación de Datos Abiertos del Gobierno Dominicano 
+(NORTIC A3:2014), en términos de:
+
+•  Levantamiento de la Información, según lo establecido 
+en el capítulo II.
+
+Guía de Uso del Portal de Datos Abiertos 27
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+•  Identificación de la Información Reutilizable, según lo 
+establecido en el capítulo III.
+
+•  Estructuración de la Información Reutilizable, según lo 
+establecido en el capítulo IV.
+
+(b)  En caso de que el organismo se encuentre en proceso de 
+certificación bajo los estándares de la NORTIC A3:2014, 
+estos requisitos previos se cumplen durante la primera parte 
+del proceso bajo el acompañamiento del personal asignado 
+por la OPTIC.
+
+(c)  El organismo debe cargar los documentos que cumplan 
+con estos requisitos en una sección de su subportal de 
+transparencia con el nombre de “Datos Abiertos” para 
+utilizar los enlaces de esos documentos en el portal de datos 
+abiertos.
+
+Sub-sección 4.02.       Creación de Conjuntos de Datos
+
+Una vez que el organismo se ha asegurado de que sus datos cumplen 
+con lo especificado en la NORTIC A3:2014 según lo referido en 
+la subsección anterior, entonces se procede con la creación de los 
+conjuntos de datos y el enlace desde la organización que fue creada 
+por la DIGEIG para esos fines, siguiendo los pasos que se muestra 
+a continuación:
+
+1.  En la Pizarra del panel de control, el organismo debe seleccionar 
+la opción “Mis Organizaciones” para poder visualizar las 
+organizaciones que la DIGEIG ha vinculado con la cuenta 
+de usuario, como se muestra en la Figura 4.1 opción “Mis 
+Organizaciones”.
+
+28 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+Figura 4.1 Opción “Mis Organizaciones”
+Nombre Completo de Usuario 0
+
+S República Dominicana
+Conjunto de datos Organizaciones Grupos Acerca de DESCARGA LA NORTIC A3 Búsqueda
+
+/ Pizarra
+
+Editar opciones
+Feed de Noticias Mis Conjuntos de Datos Mis organizaciones Mis Grupos
+
+Feed de Noticias Actividad de los elementos que Usted sigue  Actividad de: Todo
+
+2.  Una vez dentro de la sección organizaciones, como se ilustra 
+en la Figura 4.2 Selección de organización, se puede visualizar 
+la Organización en la cual se publicarán los datos, para esto el 
+organismo debe proceder a seleccionarla.
+
+Figura 4.2 Selección de organización
+
+Nombre Completo de Usuario 0
+
+S República Dominicana
+Conjunto de datos Organizaciones Grupos Acerca de DESCARGA LA NORTIC A3 Búsqueda
+
+/ Pizarra
+
+Editar opciones
+Feed de Noticias Mis Conjuntos de Datos Mis organizaciones Mis Grupos
+
+Organización Prueba
+0 Conjuntos de Datos
+
+3.  Una vez seleccionada la Organización, podrá ser visualizado 
+el panel de control de la misma, como se ilustra en la Figura 
+4.3 Panel de control de la organización, que está conformado 
+como se describe a continuación:
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 29
+
+
+
+NORTIC A3-2:2018
+
+(a)  Información General de la Organización, resaltado con el 
+número 1 dentro de la figura 4.3, muestra el isotipo del 
+organismo gubernamental, junto a una breve descripción 
+colocada por la DIGEIG con la información que el 
+organismo gubernamental previamente les ha entregado 
+(subsección 3.03 Generación de Organizaciones en el 
+Portal de Datos Abiertos), además de mostrar la cantidad 
+de seguidores de la Organización y el total de conjuntos de 
+datos de la misma.
+
+(b)  Informaciones Generales sobre los Conjuntos de Datos 
+de la Organización, resaltado con el número 2 en la figura 
+4.3, donde se muestran informaciones específicas sobre los 
+conjuntos de datos publicados por el organismo, los cuales 
+se detallan de la siguiente manera:
+
+•  Organizaciones: donde se muestran otras organizaciones 
+con características similares.
+
+•  Grupos: donde se pueden visualizar las categorías de 
+los conjuntos de datos publicados por la organización 
+de acuerdo con la naturaleza o contexto de los datos 
+que se estén publicando y de acuerdo a lo establecido 
+en el Capítulo III – Identificación de la Información 
+Reutilizable de la NORTIC A3:2014. Esta clasificación 
+es otorgada por la DIGEIG. 
+
+•  Etiquetas: se utilizan como una herramienta para una 
+mejor taxonomía o categorización de los conjuntos de 
+datos publicados, las etiquetas son aplicadas a cada 
+conjunto de datos dependiendo de la organización 
+que las esté publicando, según lo establecido en la 
+sección 4.03 – Taxonomía de la NORTIC A3:2014 y 
+son extraídas directamente del Anexo A – Categorías 
+para los Organismos Gubernamentales de la referida 
+normativa.
+
+30 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+•  Formatos: donde se detallan los diferentes formatos 
+de los datos que ha publicado la organización, estos 
+formatos son los establecidos en la sección 4.01 – 
+Formatos, de la NORTIC A3:2014, atendiendo al tipo 
+de información a publicar.
+
+•  Licencias: en donde se muestran las licencias bajo las 
+cuales se están publicando los datos de la organización, 
+estas licencias deben ser colocadas según lo establecido 
+en la sección 4.05 – Licencias de la NORTIC A3:2014, 
+siendo utilizada para el portal de datos abiertos la 
+Licencia de Base de Datos Abierta (ODbL, por sus 
+siglas en inglés).
+
+(c)  Funcionalidades para la Carga de Conjuntos de Datos y 
+Herramientas de Consulta, resaltado con el número 3 en 
+la figura 4.3, donde se muestran opciones para realizar la 
+carga de los datos y otras para la consulta de información 
+relativa a los conjuntos, como se detalla a continuación:
+
+•  Sección de Conjuntos de Datos: en la que se muestran 
+todos los conjuntos de datos que posee el organismo 
+junto a las herramientas de búsqueda y de ordenamiento 
+para facilitar la búsqueda entre los conjuntos.
+
+En esta sección se visualiza el botón “Agregar Conjunto 
+de Datos”, mediante la cual se crean los conjuntos y 
+recursos de datos.
+
+•  Sección de Flujo de Actividad: en la que se puede 
+visualizar un historial de las actividades realizadas en 
+la organización.
+
+•  Sección “Acerca de”: donde se pueden visualizar otros 
+detalles importantes acerca de las informaciones 
+generales de la Organización.
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 31
+
+
+
+NORTIC A3-2:2018
+
+•  Botón “Administrar”: este lleva a una sección donde 
+se pueden editar las informaciones generales de la 
+organización, tales como el nombre de la organización, 
+su descripción, entre otras.
+
+Figura 4.3 Panel de Control de la Organización
+
+Nombre Completo de Usuario 0
+
+S República Dominicana
+Conjunto de datos Organizaciones Grupos Acerca de DESCARGA LA NORTIC A3 Búsqueda
+
+/ Organizaciones / Organización Prueba
+
+Conjuntos de Datos Flujo de Actividad Acerca de Administrar
+
+Agregar conjunto de datos
+
+Búscar conjuntos de datos...
+Organización Prueba
+No existe una descripción Ord enar por: Relevancia
+para esta organización
+
+Seguidores Conjunto de 
+
+0 datos
+
+0 3
+Seguir 1
+
+Organizadores
+
+No hay Organizaciones que
+coincidan con esta búqueda
+
+Grupos 2
+No hay Grupos que coincidan
+con esta búsqueda
+
+Etiquetas
+
+No hay Etiquetas que
+coincidan con esta búsqueda
+
+Formatos
+
+No hay Formatos que
+coincidan con esta búsqueda
+
+Licencias
+
+No hay Licencias que
+coincidan con esta búsqueda
+
+32 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+4.  Para proceder con la creación de los conjuntos de datos, 
+el organismo debe enlazar los datos desde su subportal de 
+transparencia y finalmente publicarlos en el portal de datos 
+abiertos. Para esto deberá acceder a la opción “Agregar 
+Conjunto de Datos” del panel de control de la organización, 
+como se muestra en la Figura 4.4 Agregar conjunto de datos.
+
+Figura 4.4 Agregar conjunto de datos
+
+ 
+
+5.  Una vez dentro, el organismo debe proceder a completar un 
+formulario dividido en 2 pasos, siendo el primero para crear 
+un conjunto de datos y el segundo para agregar los recursos 
+pertenecientes al referido conjunto, como se muestra en las 
+Figuras 4.5 Formulario para la Creación del Conjunto de 
+Datos y Figura 4.6 Formulario para Agregar los Datos al 
+Conjunto, utilizando los enlaces de los datos en el subportal 
+de transparencia del organismo y siguiendo lo establecido a 
+continuación:
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 33
+
+
+
+NORTIC A3-2:2018
+
+(a)  El organismo debe completar la primera parte del 
+formulario, crear conjunto de datos, atendiendo a lo 
+siguiente:
+
+•  El campo “Título”: en este campo el organismo debe 
+colocar un nombre clave que englobe todos los recursos 
+dentro del conjunto de datos, seguido de las siglas del 
+organismo.
+
+•  El campo “Descripción”: corresponde al detalle de 
+lo contenido dentro del conjunto e informaciones 
+externas en caso de ser necesario. El mismo debe ser 
+completado describiendo concretamente los datos que 
+contiene el documento enlazado, el nombre y siglas del 
+organismo, así como también, el periodo de tiempo de 
+los datos contenidos.
+
+Al colocarse la descripción en el portal de datos abiertos, esta debe 
+visualizarse como se muestra a continuación:
+
+Descripción: Este conjunto de datos contiene (nombre del dato) del (Nombre completo y 
+sigla del organismo), de los años 2016, 2017 y 2018.
+
+Puede usar formato markdown aquí
+
+34 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+•  El Campo “Etiquetas”: en la que el organismo debe 
+describir, con exactitud y evitando errores, las tres 
+palabras que corresponden con la Categoría, Sub-
+Categoría y Palabra Clave de su organismo, según 
+lo establecido en el Anexo A – Categorías para 
+los Organismos Gubernamentales de la NORTIC 
+A3:2014. 
+
+Etiquetas: Gestión Pública TIC Tecnología
+
+Al colocarse las etiquetas en el portal de datos, las etiquetas deben 
+visualizarse de la siguiente manera:
+
+•  El Campo “Licencia”: de la lista desplegable en 
+este campo debe elegirse la licencia bajo la cual se 
+están publicando los datos del organismo. Todos los 
+organismos gubernamentales deben publicar sus datos 
+bajo la Licencia ODbL.
+
+Licencia: Open Data Commons Ope...
+
+Open Data Commons 
+Attribution License
+Open Data Commons Open 
+Database License (ODbL)
+Open Data Commons 
+Public Domain Dedication
+and Licence (PDDL)
+Otra (Abierta)
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 35
+
+
+
+NORTIC A3-2:2018
+
+•  El campo “Organización”: que contiene en su lista 
+desplegable, las organizaciones en las cuales el usuario 
+puede publicar datos. Este campo se mantiene igual en 
+todas las ocasiones.
+
+•  El campo “Visibilidad”: donde se determina si el 
+conjunto de datos será visible o no para todos los 
+usuarios del portal una vez se haya concluido el mismo. 
+Los conjuntos de datos nuevos deben mantenerse en 
+estado “Privado” hasta tanto sean verificados por la 
+DIGEIG y la OPTIC, cambiándose posteriormente a 
+estado Público.
+
+Visibilidad: Privado
+
+•  El campo “Fuente”: en el que se debe colocar el enlace 
+de la fuente de donde provienen todos los datos del 
+conjunto que se está creando.
+
+http://organismo.gob.do/
+transparencia/datosabiertos
+
+•  El campo “Versión”: este campo siempre iniciará por la 
+versión 1.0 y debe ser modificado de forma ascendente 
+cuando se realicen cambios significativos en la 
+estructura del conjunto de datos, tales como, cambiar 
+la estructura interna de los recursos, añadir recursos a 
+conjuntos de datos ya creados y cambio de nombre del 
+conjunto.
+
+36 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+•  El campo “Autor”: en el que se debe describir el área de 
+la organización que provee los datos que forman parte 
+del conjunto que está siendo creado.
+
+•  El campo “Email del Autor”: donde se debe colocar 
+una dirección de correo electrónico de contacto del 
+área autora de los datos.
+
+•  El campo “Mantenedor”: en el que se debe describir 
+el nombre del área responsable de enlazar y mantener 
+actualizados los conjuntos de datos de la organización 
+según su periodicidad.
+
+•  El campo “Email del Mantenedor”: donde se debe 
+colocar una dirección de correo electrónico de contacto 
+del área o de la persona responsable de mantener los 
+conjuntos de datos.
+
+•  Los “Campos Personalizados”: estos campos son 
+utilizados para añadir información adicional al conjunto 
+de datos y es en este campo que el organismo añade la 
+periodicidad o tiempo de actualización periódica para 
+el conjunto de datos dependiendo del tipo de dato que 
+se esté trabajando, completando el campo “Key” con 
+la palabra “Periodicidad” y el campo “Value” con el 
+tiempo de actualización periódica.
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 37
+
+
+
+NORTIC A3-2:2018
+
+•  La periodicidad de los conjuntos de datos debe cumplir 
+con lo establecido en la sección 5.02 – Frecuencia 
+de Actualización de la Norma sobre Publicación de 
+Datos Abiertos del Gobierno Dominicano, NORTIC 
+A3:2014.
+
+Campo Key: Periodicidad Value: Mensual
+Personalizado:
+
+•  Luego de haber completado todos los campos del 
+formulario según lo establecido previamente, entonces 
+el organismo procede a agregar los datos del conjunto 
+en la segunda parte del formulario, a través del botón 
+de “Siguiente: Agregar Datos”.
+
+A continuación, se muestra en la figura 4.5, un ejemplo completo de 
+cómo deben llenarse los campos de la primera parte del formulario 
+para la creación de conjuntos de datos utilizando como referencia 
+informaciones de la OPTIC.
+
+38 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+Figura 4.5 Formulario para la creación del conjunto de datos
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 39
+
+
+
+NORTIC A3-2:2018
+
+(b)  El organismo debe completar la segunda parte del 
+formulario, “Agregar Datos”, atendiendo a lo siguiente:
+
+•  El campo “URL”: es donde debe colocarse el enlace 
+directo a uno de los recursos que conforman el conjunto 
+de datos. Este enlace debe descargar el documento 
+automáticamente es pulsado.
+
+•  El campo “Nombre”: En este campo debe colocarse el 
+nombre detallado del recurso que se está enlazando, 
+colocándose el nombre del dato y la sigla del organismo. 
+
+•  El campo “Descripción”: Este campo debe contener 
+las informaciones generales del recurso que se está 
+enlazando, además debe describir la estructura interna 
+de los recursos.
+
+•  En caso de que los recursos enlazados contengan 
+palabras muy técnicas o acrónimos que no puedan ser 
+comprendidos, será necesario colocar en la descripción 
+toda la información que pueda ayudar al usuario a 
+entender el dato, como términos y definiciones.
+
+40 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+•  El campo “Formato”: En el que el organismo debe 
+seleccionar el formato del recurso que se está enlazando 
+al portal. Estos formatos se colocan de acuerdo al tipo 
+de dato a enlazar y según lo establecido en la sección 
+4.01 – Formatos, de la NORTIC A3:2014.
+
+•  Luego de haber seleccionado el formato correspondiente 
+al conjunto, entonces se selecciona la opción “Guardar 
+y Agregar Otro” para repetir el proceso y subir los 
+demás recursos en sus diferentes formatos.
+
+A continuación, se muestra en la figura 4.6, un ejemplo completo de 
+cómo deben llenarse los campos de la segunda parte del formulario 
+para la creación de conjuntos de datos utilizando como referencia 
+informaciones de la OPTIC.
+
+Figura 4.6 Formulario para agregar los datos al conjunto
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 41
+
+
+
+NORTIC A3-2:2018
+
+•  Finalmente, luego de haber enlazado todos los recursos 
+del conjunto en los formatos correspondientes, el 
+organismo debe proceder a seleccionar la opción de 
+“Terminar”.
+
+A continuación, se muestra un ejemplo completo de cómo se 
+visualiza el conjunto de datos creado y sus recursos, una vez se ha 
+concluido con todo el proceso como se ha descrito.
+
+Figura 4.7 Conjunto de datos creado.
+
+(c)  El organismo debe asegurarse de que no exista ningún 
+tipo de errores ni faltas ortográficas en las informaciones 
+colocadas en los campos mencionados previamente.
+
+42 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+Sub-sección 4.03.		  Publicación, Actualización y	
+	    	    Maduración de los Conjuntos de Datos
+
+La publicación de los conjuntos y sus recursos en el portal de datos, 
+así como su actualización y maduración, son los elementos más 
+importantes en la gestión de los datos abiertos debido a que todos 
+están relacionados directamente con su disponibilidad y utilización 
+de frente a los usuarios. Por esta razón, todos estos deben llevarse a 
+cabo de acuerdo a lo establecido en los apartados de esta sub-sección.
+
+Apartado 4.03.1.     		   Publicación de los Datos Abiertos
+
+(a)  La publicación de los conjuntos de datos creados se realiza 
+luego de la verificación de la OPTIC y la aprobación de la 
+DIGEIG.
+
+(b)  El organismo debe realizar la publicación de los conjuntos 
+de datos creados a través de la opción “Administrar” que 
+se muestra dentro de cada conjunto, como se ilustra en la 
+Figura 4.8 Opción “Administrar”.
+
+Figura 4.8 Opción “Administrar”
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 43
+
+
+
+NORTIC A3-2:2018
+
+(c)  Dentro de la opción “Administrar”, el organismo debe 
+cambiar el estatus de visibilidad de “Privado” a “Público”, 
+seleccionando posteriormente la opción “Actualizar 
+Conjunto de Datos” que aparece al final del formulario.
+
+Apartado 4.03.2.                   Actualización de los Datos Abiertos
+
+Luego de la publicación de los datos, la actualización de los mismos 
+es fundamental para la utilización por parte de la ciudadanía, y por 
+esto es que el organismo debe asegurarse de que los conjuntos de 
+datos se actualizan conforme a lo siguiente: 
+
+(a)  Al momento de su publicación, los conjuntos de datos 
+deben estar actualizados hasta la fecha de su publicación.
+
+(b)  Todos los conjuntos de datos, luego de ser publicados, 
+deben actualizarse según su fecha de actualización 
+correspondiente.
+
+(c)  Cada conjunto de datos debe llevar la periodicidad 
+de actualización correspondiente según su periodo de 
+generación.
+
+(d)  La periodicidad debe ser determinada según lo establecido 
+en la Sección 5.02 de la NORTIC A3:2014.
+
+44 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+Apartado 4.03.3.                     Maduración de los Datos Abiertos
+
+La maduración de los datos abiertos se refiere al mantenimiento 
+y robustez de la cultura de publicación de los datos en formatos 
+reutilizables, con la finalidad de que la sociedad tenga cada vez más 
+acceso a datos relevantes producidos por el Estado dominicano, que 
+puedan utilizar para información, investigación y desarrollo. Por esta 
+razón el organismo debe:
+
+(a)  Asegurarse de que los conjuntos de datos son verificados 
+a intervalos planificados para evitar errores derivados de 
+la publicación, como enlaces rotos, enlaces incompletos, 
+entre otros.
+
+(b)  Determinar el tiempo de revisión de la estructura interna 
+de los conjuntos de datos publicados y asegurarse de que las 
+áreas que producen los datos dentro de los mismos, realicen 
+esa verificación para encontrar las mejoras y ampliaciones 
+correspondientes.
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 45
+
+
+
+NORTIC A3-2:2018
+
+GLOSARIO DE TÉRMINOS
+
+AUTOR
+Campo encontrado en el portal de datos en la fase de creación de 
+un conjunto, en donde se debe especificar el departamento autor de 
+levantar los datos de los recursos encontrados en el conjunto.
+
+CONJUNTOS DE DATOS
+Colección de elementos (recursos) de un tema en particular.
+
+CUENTA DE USUARIO
+Perfil registrado de la organización con la finalidad de que los 
+miembros de la organización desempeñen los roles del portal por 
+parte del organismo y en su defecto la gestión de las informaciones 
+concernientes al mismo.
+
+DASHBOARD / PIZARRA
+Panel central en donde los organismos pueden visualizar su 
+información más relevante, concerniente a las actividades recientes, 
+los conjuntos de datos, organizaciones creadas y grupos en donde el 
+mismo es miembro.
+
+DATOS ABIERTOS
+Son datos que pueden ser utilizados, reutilizados y redistribuidos 
+libremente por cualquier persona, sin restricciones de derechos de 
+autor, de patentes u otros mecanismos de control.
+
+DESCRIPCIÓN DEL CONJUNTO
+Campo encontrado en el portal de datos en la fase de creación de 
+un conjunto, en donde se debe describir de manera específica el 
+contenido a encontrar en el recurso, tanto como hasta donde el 
+mismo se encuentra actualizado. 
+
+46 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+DESCRIPCIÓN DEL RECURSO
+Campo encontrado en el portal de datos en la fase de subida de 
+un recurso, en donde se debe describir de manera específica el 
+contenido a encontrar en el recurso, tanto como hasta donde el 
+mismo se encuentra actualizado. 
+
+ESTADO
+Campo encontrado en el portal de datos en la fase de creación de 
+un conjunto, en donde se gestiona el estado del mismo ya sea este 
+‘Públicos’ o ‘Privados’.
+
+ETIQUETAS
+Campo encontrado en el portal de datos en la fase de creación de 
+un conjunto, también nombrado como categorías en la NORTIC 
+A3, en el cual, se debe indicar como mínimo 3 palabras claves 
+asociadas al organismo y sus funciones, las cuales ayudarán a los 
+usuarios a encontrar los datos de manera más ágil y enlazarlos con 
+otros relacionados. Verificar el anexo A sobre categorías para los 
+organismos gubernamentales de la NORTIC A3:2014.
+
+FEED DE NOTICIAS 
+Espacio en donde se visualizan las actividades recientes llevadas a 
+cabo por los miembros del organismo.
+
+FORMATO DEL RECURSO
+Campo encontrado en el portal de datos en la fase de subida de un 
+recurso, en donde se debe indicar el tipo de formato de archivo de 
+este recurso.
+
+FUENTE
+Campo encontrado en el portal de datos en la fase de creación de 
+un conjunto, en donde se debe agregar el enlace de donde se está 
+extrayendo los recursos del conjunto.
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 47
+
+
+
+NORTIC A3-2:2018
+
+GRAVATAR
+Es un software que ofrece servicios en línea de avatar (imagen), a través 
+de una cuenta de perfil asociado a un correo electrónico, de manera 
+que cuando el usuario se registra en un sitio web con su correo, la 
+imagen cargada al perfil de gravatar se incluye automáticamente. 
+
+ISOTIPO
+Representación de la identidad del organismo, el cual sólo se 
+compone de una imagen, es decir, no hay tipografía, no puede ser 
+leída, más bien, si entendida.
+
+LICENCIA
+Campo encontrado en el portal de datos en la fase de creación de un 
+conjunto, en el cual, se debe indicar el tipo de licencia que regirá las 
+informaciones encontradas en los conjuntos de los organismos para 
+su uso y distribución libre.
+
+MANTENEDOR
+Campo encontrado en el portal de datos en la fase de creación de un 
+conjunto, en donde se debe especificar el departamento responsable 
+de la actualización de los recursos encontrados en el conjunto.
+
+MIEMBROS
+Personal responsable por parte del organismo de gestionar y mantener 
+los conjuntos y recursos de datos en el perfil, esto dependiendo su 
+nivel de autorización conforme a los diferentes roles permitidos 
+‘Administrador’, ‘Editor’ y ‘Miembro’.
+
+NOMBRE DEL RECURSO
+Campo encontrado en el portal de datos en la fase de subida de un 
+recurso, en donde se debe indicar el título del recurso (archivos en 
+cualquier formato) de manera breve y especifica. 
+
+48 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+ORGANIZACIÓN
+Institución del Estado creada como ‘Organización’ asociada a una 
+cuenta de usuario y en su defecto, a los conjuntos de datos publicados 
+por la misma.
+
+PERIODICIDAD
+Campo encontrado en el portal de datos en la fase de subida de un 
+recurso, en donde se debe indicar el periodo de tiempo en el cual el 
+organismo deberá actualizar los datos encontrados en los conjuntos.
+
+RECURSOS DE DATOS
+Archivos de cualquier formato, en los cuales se pueden almacenar 
+datos de manera reutilizable mediante una URL, por ejemplo: 
+formato CSV, hojas de cálculo de Excel, XML, entre otros.
+
+TÍTULO DEL CONJUNTO
+Campo encontrado en el portal de datos en la fase de creación de un 
+conjunto, en donde se debe indicar el título del conjunto de manera 
+breve y general. 
+
+URL
+Campo encontrado en el portal de datos en la fase de subida de un 
+recurso, en donde se agrega el enlace de localización del mismo, de 
+manera que se visualicen y se puedan descargar las informaciones 
+concernientes al recurso.
+
+VISIBILIDAD
+Campo encontrado en el portal de datos en la fase de creación de un 
+conjunto, en donde se gestiona la visibilidad de estos, de manera que 
+puedan encontrarse ‘Públicos’ o ‘Privados’.
+
+Para ver otras otros términos y definiciones, consultar el glosario 
+de términos de la Norma Sobre Publicación de Datos Abiertos del 
+Gobierno Dominicano (NORTIC A3).
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 49
+
+
+
+NORTIC A3-2:2018
+
+ABREVIATURAS Y ACRÓNIMOS
+
+Abrebiaturas y 
+No. Inglés Español
+
+Acrónimos
+Comma-Separated Valores Separados por 
+
+1 CSV
+Values Coma
+
+Catalog Service for Servicio de Catálogo 
+2 CSW
+
+the Web para la Web
+
+Data Catalog Vocabulario para 
+3 DCAT
+
+Vocabulary Catálogo de Datos
+
+Dirección General 
+4 DIGEIG N/A de Ética e Integridad 
+
+Gubernamental
+
+Office Open XML Documento Office 
+5 DOCX
+
+Document Open XML
+
+Geographic Markup Lenguaje de Marcado 
+6 GML
+
+Language Geográfico
+
+7 GNU GNU is Not Unix GNU no es Unix
+
+General Public Licencia Pública 
+8 GPL
+
+License General
+
+9 Gzip GNU Zip Zip bajo licencia GNU
+
+Joint Photographic Grupo Conjunto de 
+10 JPG
+
+Experts Group Expertos en Fotografía
+
+JavaScript Object Notación de objetos de 
+11 JSON
+
+Notation JavaScript
+
+Open Database Licencia de Base de 
+12 ODBL
+
+License Datos Abierta
+
+Formato de 
+13 ODF Open Data Format
+
+Documento Abierto
+
+50 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+Open Data Hojas de Cálculo de 
+14 ODS
+
+Spreadsheet Documento Abierto
+
+Oficina Presidencial 
+de Tecnología de 
+
+15 OPTIC N/A
+la Información y 
+Comunicación
+
+Portable Network Gráficos de Red 
+16 PNG
+
+Graphics Portátiles
+
+Scalable Vector Gráficos Vectoriales 
+17 SVG
+
+Graphics Redimencionables
+
+Office Open XML Hoja de Cálculo Office 
+18 XLSX
+
+Spreadsheet Open XML
+
+eXtensible Markup Lenguaje de Marcas 
+19 XML
+
+Language Extensible
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 51
+
+
+
+NORTIC A3-2:2018
+
+Este es un documento elaborado por la Oficina Presidencial 
+de Tecnologías de la Información y Comunicación (OPTIC) 
+
+para la Dirección General de Ética e Integridad  
+Gubernamental (DIGEIG).
+
+52 Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano
+
+
+
+NORTIC A3-2:2018
+
+EQUIPO DE TRABAJO
+
+Oficina Presidencial de Tecnologías de la Información y 
+Comunicación (OPTIC)
+
+Armando García Piña, Director General
+
+Departamento de Estandarización, Normativas y Auditoría 
+Técnica (OPTIC)
+
+Glenny María Castro, Gerente
+Ginsy Aguilera Gómez, Supervisor de Normativas y Estándares.
+
+Emmanuel Reyes Núñez, Especialista en Normativas y Estándares.
+Enyer Pérez Matos, Especialista en Normativas y Estándares.
+
+Natalia Andújar García, Especialista en Normativas y Estándares
+Kelvin Osorio García, Especialista en Normativas y Estándares.
+Miguel Báez Lorenzo, Especialista en Normativas y Estándares.
+
+Norbis Martínez Paredes, Especialista en Normativas y Estándares.
+
+Guía de Uso del Portal de Datos Abiertos
+del Gobierno Dominicano 53

@@ -1,0 +1,4460 @@
+﻿Presidencia de la República Dominicana
+OFICINA PRESIDENCIAL DE TECNOLOGÍAS
+DE LA INFORMACIÓN Y COMUNICACIÓN
+
+NORMA SOBRE LA PRESTACIÓN
+Y AUTOMATIZACIÓN DE LOS SERVICIOS PÚBLICOS
+
+DEL ESTADO DOMINICANO
+
+Santo Domingo, República Dominicana
+7 de Abril, 2015
+
+
+
+
+
+
+Presidencia de la República Dominicana
+OFICINA PRESIDENCIAL DE TECNOLOGÍAS
+DE LA INFORMACIÓN Y COMUNICACIÓN
+
+Norma sobre la Prestación y Automatización 
+de los Servicios Públicos del Estado Dominicano
+
+Santo Domingo, República Dominicana
+7 de Abril, 2015
+
+
+
+NORTIC A5:2015
+Norma sobre la Prestación y Automatización de los Servicios Públicos 
+del Estado Dominicano
+
+Edición: 1era
+Oficina Presidencial de Tecnologías de la Información y Comunicación (OPTIC)
+Departamento de Estandarización, Normativas y Auditoría Técnica (ENAT)
+
+Ministerio de Administración Pública (MAP)
+Vice Ministerio de Innovación y Modernización
+
+Fecha de aprobación: 22 de enero de 2015
+Fecha de lanzamiento: 7 de Abril de 2015
+
+Categoría: A
+Serie de documento: 5
+Año de publicación: 2015
+Diagramado y Diseñado por el Departamento Multimedia OPTIC.
+Impreso en República Dominicana
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+CONTENIDO
+PROLOGO.............................................................................................v
+MARCO LEGAL................................................................................. vii
+INTRODUCCIÓN............................................................................ xiii
+
+CAPÍTULO I. 
+Norma sobre la Prestación y Automatización de los Servicios Públicos 
+del Estado Dominicano ................................................................15
+SECCIÓN 1.01 Alcance................................................................................15
+SECCIÓN 1.02 Referencias  Normativas........................................................16
+SECCIÓN 1.03 Términos  y  Definiciones...................................................16
+SECCIÓN 1.04 Conceptos Generales.............................................................16
+     Sub-sección 1.04.1 Servicios.........................................................................17
+     Sub-sección 1.04.2 Servicios Públicos..........................................................17
+     Sub-sección 1.04.3 Servicios en Línea.........................................................17
+     Sub-sección 1.04.4 Servicios Transaccionales..............................................18
+SECCIÓN 1.05 Gestión De Servicios.............................................................18
+     Sub-sección 1.05.1 Directrices Generales sobre Gestión de Servicios..........................18
+SECCIÓN 1.06 Niveles De Servicio................................................................20
+SECCIÓN 1.07 Calidad De Los Servicios.......................................................21
+CAPÍTULO II
+Preparación de los Servicios Públicos ........................................... 23
+SECCIÓN 2.01 Preparación del Servicio........................................................23
+     Sub-sección 2.01.1 Composición del Nombre............................................23
+     Sub-sección 2.01.2 Catálogo de Servicios....................................................24
+     Sub-sección 2.01.3 Disponibilidad y continuidad del servicio...................25
+      Apartado 2.01.3.1 Centro de Datos Oficial del Estado .......................27
+     Sub-sección 2.01.4 Metadatos.....................................................................28
+     Sub-sección 2.01.5 Carta compromiso........................................................29
+CAPÍTULO III
+Canales de Atención Ciudadana ....................................................31
+SECCIÓN 3.01 Atención en Línea.................................................................31
+    Sub-Sección 3.01.1. Directrices sobre las notificaciones a los usuarios......................34
+     Sub-Sección 3.01.2. Creación de formularios procesos o transacciones....34
+     Sub-Sección 3.01.3. Integración al Portal del Estado Dominicano 
+     www.gob.do..................................................................................................37
+     Sub-Sección 3.01.4. Redes sociales...............................................................38
+     Sub-Sección 3.01.5. Chat.............................................................................39
+    Sub-Sección 3.01.6. Prestación de servicios en la nube ................................39
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+     Sub-Sección 3.01.6.Prestación de servicios en la nube...............................40
+     Sub-Sección 3.01.8. Correo electrónico ......................................................41
+SECCIÓN 3.02 Atención Telefónica............................................................42
+     Sub-Sección 3.02.1. Directrices Generales de la Atención Telefónica.......42
+     Sub-Sección 3.02.2. Sistema de respuesta de voz interactiva ............44
+     Sub-Sección 3.02.3. *GOB..........................................................................47
+     Apartado 3.02.2.1. Procedimiento para pertenecer al *GOB ............47
+SECCIÓN 3.03  Atención Presencial...........................................................49
+    Sub-Sección 3.03.1. Directrices Generales de la Atención Presencial.........49
+    Sub-Sección 3.03.2. Procedimiento para pertenecer al Punto GOB..........50
+SECCIÓN 3.04 Ventanilla Única...................................................................52
+CAPÍTULO IV 
+Interoperabilidad ...................................................................................55
+SECCIÓN 4.01 Uso del Catálogo...................................................................55
+SECCIÓN 4.02  Interoperabilidad Organizacional.........................................56
+SECCIÓN 4.03 Interoperabilidad Semántica.................................................59
+SECCIÓN 4.04 Interoperabilidad  Técnica....................................................62
+CAPÍTULO V
+Automatización de los Servicios ...............................................................67
+SECCIÓN 5.01 Documentos Electronicos y Firmas Digitales.......................67
+    Sub-Sección 5.01.1  Firmas Digitales...........................................................68
+SECCIÓN 5.02 Pago Electrónico ...................................................................69
+SECCIÓN 5.03 Recomendaciones..................................................................71
+SECCIÓN 5.04 Sistema de Gestión de Relaciones con el Cliente ................71
+SECCIÓN 5.05 Sistema de Planificación de Recursos Empresariales ...........72
+
+GLOSARIO DE TÉRMINOS..........................................................................74
+ABREVIATURAS Y ACRÓNIMOS...............................................................82
+BIBLIOGRAFÍA.............................................................................................86
+ANEXOS..........................................................................................................89
+EQUIPO DE TRABAJO ................................................................................ 90
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano.
+
+
+
+PRÓLOGO
+La Oficina Presidencial de Tecnologías de la Información y 
+Comunicación (OPTIC), es el organismo del Estado Dominicano 
+responsable de fomentar el uso de las tecnologías de la información 
+y comunicación (TIC), creado mediante el decreto No. 1090-04, en 
+fecha 3 de septiembre de 2004, como dependencia directa del Poder 
+Ejecutivo, con autonomía financiera, estructural y funcional, a fin de 
+garantizar eficiencia, transparencia, servicios en línea y mecanismos 
+para la rendición de cuentas, disponibles a favor de la ciudadanía.
+
+De modo que atendiendo a sus funciones, la OPTIC ha elaborado la 
+Norma sobre la Prestación y Automatización de los Servicios Públicos del 
+Estado Dominicano (NORTIC A5:2015), en conjunto con el Ministerio 
+de Administración Pública (MAP), el cual fue creado mediante la Ley 
+No. 41-08, con la responsabilidad de velar por la prestación efectiva y de 
+calidad de los servicios públicos. 
+
+Las NORTIC fueron concebidas para normalizar, estandarizar y tener 
+una herramienta de auditoría para el efectivo uso e implementación 
+de las TIC en la administración pública, con el fin de llegar a la 
+completa homogeneidad y mejora de los procesos entre los organismos 
+gubernamentales.
+
+En este contexto, se han definido 5 categorías o tipos de NORTIC, 
+según el alcance de estas, para ser difundidas e implementadas en toda 
+la administración pública, como se presenta a continuación:
+
+1. Categoría A (normas universales), para los aspectos normativos 
+que aplican a todos los organismos gubernamentales.
+
+2. Categoría B (normas para los departamentos de TIC), para 
+aquellas normas necesarias y exclusivas a la efectiva gestión de los 
+departamentos o áreas de TIC dentro de los distintos organismos 
+del Estado Dominicano.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. v5
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+3. Categoría C (normas municipales), para las normas que aplican a 
+las iniciativas de TIC en los ayuntamientos o municipios.
+
+4. Categoría D (normas para embajadas), para las normas que 
+aplican únicamente a las iniciativas de TIC de las embajadas, 
+consulados o misiones en el extranjero.
+
+5. Categoría E (normas especiales), para las normas que aplican 
+a organismos gubernamentales con características específicas 
+dependiendo de sus funciones y estructura orgánica, así como 
+para iniciativas, proyectos o programas de Gobierno, en el cual se 
+haga uso de las TIC.
+
+De modo, que esta norma, por tener un alcance universal, pertenece a 
+la categoría A; mientras que por ser la quinta NORTIC elaborada y en 
+el año 2015, su denominación es NORTIC A5:2015.
+En algunos casos, esta normativa puede presentarse de la forma 
+siguiente NORTIC A5-1:2015, seguida de trece caracteres (#####-
+##-######), donde el número “1” que aparece después del guion (-) 
+especifica la serie del documento (1 para directrices, 2 para guías de 
+implementación, 3 para código de buenas prácticas, entre otros) y los 
+demás caracteres, el Número de Identificación Único (NIU) para cada 
+organismo del Estado.
+
+La evaluación de cada NORTIC es realizada por dos comités, la primera 
+evaluación es ejecutada por el Comité Interno para la Evaluación de las 
+Normas (CIEN), el cual está conformado por expertos en TIC dentro 
+de la OPTIC, mientras que la segunda evaluación es realizada por el 
+Comité de Estándares de Tecnologías de la Información y Comunicación 
+(COETIC), el cual está conformado por los responsables de TIC de 
+cada organismo gubernamental, o a quienes la máxima autoridad de 
+cada organismo designe.
+
+En vista de la responsabilidad de la OPTIC en la elaboración de 
+políticas, estrategias y controles de TIC y de los avances en el uso de las 
+tecnologías, de los cuales los organismos gubernamentales no quedan 
+al margen, surge esta normativa con las directrices y recomendaciones 
+para garantizar la prestación efectiva y automatización de los servicios 
+públicos hacia el ciudadano. 
+
+Norma sobre la Prestación y Automatización de los
+
+v6i Servicios Públicos del Estado Dominicano.
+
+
+
+MARCO LEGAL
+LA OPTIC y el MAP, han establecido en conjunto, las directrices, 
+sobre la elaboración y gestión de los servicios en sus diferentes formas 
+por las cuales debe regirse todo organismo gubernamental del Estado 
+Dominicano que se encuentre dentro del alcance de esta normativa, 
+tanto para aquellos que se encuentren físicamente dentro del país, como 
+para los organismos que se encuentran fuera, como son las embajadas, 
+consulados, y misiones en el extranjero que ofrezcan servicios.
+
+El marco legal que soporta esta norma está compuesto por las leyes y 
+decretos presidenciales presentados a continuación:
+
+1. El Decreto 1090-04, a través del cual se constituye la OPTIC 
+como dependencia directa del poder ejecutivo, en el cual se 
+establece lo siguiente:
+
+• Artículo 3.- Serán funciones de la Oficina Presidencial de 
+Tecnologías de la Información y Comunicación, diseñar, 
+proponer y definir las políticas, establecer los lineamientos 
+y elaborar las estrategias, planes de acción y programas para 
+promover, desarrollar y garantizar mayor acceso, conectividad 
+e implantación de nuevas tecnologías de la información y 
+comunicación, con el fin de fomentar su uso, como soporte 
+del crecimiento económico y competitividad hacia la sociedad 
+de la información, gestionando los proyectos conforme a 
+tales directrices; y que garanticen el acceso equitativo a los 
+mercados y al sector productivo como esfuerzo para la política 
+de generación de empleo, para mejorar la calidad de vida, 
+crear oportunidades de educación, trabajo, justicia, cultura y 
+recreación, y otros.
+
+• Artículo 5.- La Oficina Presidencial de Tecnologías de 
+la Información y Comunicación será responsable de la 
+formulación de políticas y la implementación del proceso de 
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. vii7
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+desarrollo e innovación tecnológica para la transformación y 
+modernización del Estado hacia la sociedad de la información, 
+promoviendo la integración de nuevas tecnologías, su 
+compatibilidad, interoperabilidad(1) y estandarización en 
+materia de TIC.
+
+• Artículo 7.- La Oficina Presidencial de Tecnologías de la 
+Información y Comunicación podrá proponer políticas para 
+difundir y promover la generación de una cultura de TIC en 
+el país.
+
+• Artículo 9.- La Oficina Presidencial de Tecnologías de la 
+Información y Comunicación deberá velar, asistir y supervisar 
+en los aspectos y políticas relativas a la seguridad y privacidad 
+de la información digitalizada y electrónica en el ámbito del 
+sector público.
+
+2. La Ley No. 41-08, que crea la Secretaría de Función pública y 
+crea Secretaría de Estado de Administración Pública.
+• Artículo 7.-  Se crea la Secretaría de Estado de Administración 
+
+Pública como órgano rector del empleo público y de los 
+distintos sistemas y regímenes previstos por la presente ley, del 
+fortalecimiento institucional de la Administración Pública, 
+del desarrollo del gobierno electrónico y de los procesos de 
+evaluación de la gestión institucional.
+
+3. La Ley No. 107-13, sobre Derechos y Deberes de las personas en 
+sus relaciones con la Administración Pública y de Procedimiento 
+Administrativo.
+
+4. La Ley No. 200-04, la cual es la Ley General de Libre Acceso a la 
+Información Pública y establece la implementación de la sección 
+“Transparencia” en los portales del Gobierno Dominicano.
+
+• Artículo 5.- Se dispone la informatización y la incorporación 
+al sistema de comunicación por Internet(2)  o a cualquier 
+otro sistema similar que en el futuro se establezca, de todos 
+
+(1) Es la capacidad que tiene un sistema de información para intercambiar datos con otros sistemas 
+con la capacidad de procesarlos.
+
+(2) Es una red mundial que conecta computadoras de todos los lugares del mundo para que los 
+usuarios puedan interactuar entre sí sin importar el lugar.
+
+Norma sobre la Prestación y Automatización de los
+
+vi8ii Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+los organismos públicos centralizados y descentralizados del 
+Estado, incluyendo el Distrito Nacional y los municipios, con 
+la finalidad de garantizar a través de este, un acceso directo 
+del público a la información del Estado. Todos los poderes y 
+organismos del Estado deberán instrumentar la publicación 
+de sus respectivas “páginas web” a los siguientes fines:
+º Difusión de información: Estructura, integrantes, 
+
+normativas de funcionamiento, proyectos, informes de 
+gestión, base de datos(3).
+
+º Centro de intercambio y atención al cliente o usuario: 
+Consultas, quejas y sugerencias.
+
+º Trámites o transacciones bilaterales.
+º La información a que hace referencia el párrafo anterior, 
+
+será de libre acceso al público sin necesidad de petición 
+previa.
+
+• Artículo 6.- La administración pública, tanto centralizada 
+como descentralizada, como cualquier otro órgano o entidad 
+que ejerza funciones públicas o ejecute presupuesto público, 
+y los demás entes y órganos mencionados en el Artículo 1 
+de esta ley, tienen obligación de proveer la información 
+contenida en documentos escritos, fotografías, grabaciones, 
+soportes magnéticos o digitales o en cualquier otro formato y 
+que haya sido creada u obtenido por ella o que se encuentre 
+en su posesión y bajo su control.
+
+• Artículo 11.- La información solicitada podrá ser entregada 
+en forma personal, por medio de teléfono, facsímile, correo 
+ordinario, certificado o también correo electrónico(4) , o por 
+medio de formatos disponibles en la página de Internet que 
+al efecto haya preparado la administración a la que hace 
+referencia el Artículo 1 de esta ley.
+
+• Artículo 24.- Las entidades o personas que cumplen funciones 
+públicas o que administren recursos del Estado deberán 
+prever en sus presupuestos las sumas necesarias para hacer 
+
+(3) Es un conjunto de datos almacenados de manera ordenada y que guardan relación entre ellos 
+para su uso posterior.
+
+(4) Es un servicio de mensajería en red que permite el intercambio de mensajes, a través de sistemas 
+de comunicación electrónicos.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. ix9
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+publicaciones en los medios de comunicación colectiva, con 
+amplia difusión nacional, de los proyectos de reglamentos y 
+actos de carácter general, a los que se ha hecho referencia en 
+el artículo anterior.
+º Párrafo.- En los casos en que la entidad o persona 
+
+correspondiente cuente con un portal de Internet o con 
+una página en dicho medio de comunicación, deberá 
+prever la existencia de un lugar específico en ese medio 
+para que los ciudadanos puedan obtener información 
+sobre los proyectos de reglamentación, de regulación de 
+servicios, de actos y comunicaciones de valor general, que 
+determinen de alguna manera la forma de protección de 
+los servicios y el acceso de las personas de la mencionada 
+entidad. Dicha información deberá ser actual y explicativa 
+de su contenido, con un lenguaje entendible al ciudadano 
+común.
+
+º Debe publicarse el contenido utilizando medios 
+tecnológicos que garanticen la autenticidad de la 
+información, tales como certificados digitales(5).
+
+5. El Decreto No. 130-05, que aprueba el reglamento de la Ley 
+General de Libre Acceso a la Información Pública.
+
+6. La Ley No. 310-14, que regula él envió de correos electrónicos 
+comerciales no solicitados (SPAM(6) ).
+
+7. La Ley No. 172-13, sobre protección de datos de carácter 
+personal.
+
+8. La Ley No. 126-02, sobre Comercio Electrónico, Documentos 
+y Firma Digital(7).
+
+9. La Ley No. 53-07, contra Crímenes y Delitos de Alta Tecnología.
+• Artículo l.- Objeto de la Ley. La presente ley tiene por objeto 
+
+la protección integral de los sistemas que utilicen tecnologías 
+de información y comunicación y su contenido, así como la 
+
+(5) Es un fichero generado por un organismo certificador de firmas digitales, que le permite a un 
+organismo o empresa confirmar la identidad de una persona física en internet, en el caso de la 
+republica dominicana dicha entidad debe estar avalada por (INDOTEL).
+
+(6) También conocido como correo basura, se caracterizan por correos electrónicos que son enviados 
+por fuentes no conocidas, con la finalidad de promover algún producto o servicio.
+
+(7) Es un mecanismo criptográfico que permite al receptor autenticar el mensaje recibido por el 
+emisor, confirmando así la integridad de la información.
+
+Norma sobre la Prestación y Automatización de los
+
+x10 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+prevención y sanción de los delitos cometidos contra estos o 
+cualquiera de sus componentes(8)  o los cometidos mediante 
+el uso de dichas tecnologías en perjuicio de personas física o 
+morales, en los términos previstos en esta ley. La integridad de 
+los sistemas de información y sus componentes, la información 
+o los datos, que se almacenan o transmiten a través de estos, 
+las transacciones y acuerdos comerciales o de cualquiera otra 
+índole que se llevan a cabo por su medio y la confidencialidad 
+de estos, son todos bienes jurídicos protegidos.
+
+10. La Ley No. 42-2000, sobre Discapacidad en la República 
+Dominicana.
+• Artículo 7.- El Estado proveerá de la tecnología adecuada a los 
+
+centros educativos para la capacitación e información de las 
+personas con discapacidad.
+
+• Artículo 47.- El organismo rector abogará para que los medios 
+de comunicación masiva presenten una imagen comprensiva 
+y exacta de las personas con discapacidad. Asimismo, velará 
+porque estos medios cumplan con las normas éticas y de 
+estilo correspondiente.
+
+11. El Decreto No. 229-07, el cual es el instructivo de aplicación 
+de Gobierno Electrónico contentivo de las pautas generales 
+para el desarrollo de la Estrategia de Gobierno Electrónico en la 
+República Dominicana.
+
+12. El Decreto No. 709-07, sobre las normas y estándares elaboradas 
+por la OPTIC.
+
+• Artículo 1.- Se instruye a toda administración pública del Estado 
+Dominicano a cumplir con las normas y los estándares tecnológicos 
+para: (i) el desarrollo de portales gubernamentales, (ii) conectividad 
+interinstitucional, (iii) interoperabilidad tecnológica, (iv) de 
+seguridad, auditoría e integridad electrónica, (v) digitalización de 
+documentos; así como cualquier otra normativa que sea redactada, 
+aprobada y coordinada por la Oficina Presidencial de Tecnologías de 
+la Información y Comunicación (OPTIC), en materia de tecnología 
+de la información y la comunicación (TIC) y Gobierno Electrónico.
+
+(8) Referido a la web, son aplicaciones que componen un manejador de contenidos, estos agregan 
+funcionalidades específicas como eventos, galería de fotos, entre otros.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 1x1i
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+13. El Decreto No. 694-09, que establece el Sistema 311 de Atención 
+Ciudadana como medio principal de comunicación para la 
+recepción y canalización de denuncias, quejas y reclamaciones.
+• Artículo 5.- Se instruye a todas las instituciones del sector 
+
+público a incluir un enlace(9) en su portal web hacia el portal 
+www.311.gob.do.
+
+(9) Los enlaces, también conocidos como hipervínculos o hiperenlaces, son elementos dentro de un 
+portal web que hacen referencia a otros contenidos que se encuentran dentro del mismo portal 
+web o un portal externo.
+
+Norma sobre la Prestación y Automatización de los
+x1i2i Servicios Públicos del Estado Dominicano.
+
+
+
+ INTRODUCCIÓN
+La norma sobre la Prestación y Automatización de los Servicios Públicos 
+del Estado Dominicano tiene como propósito la normalización y 
+homogenización de todos los servicios del Estado Dominicano, 
+estableciendo directrices de control para este objetivo, las cuales se 
+establecen en cada capítulo de esta normativa.
+
+El primer capítulo sobre la prestación y automatización de los servicios 
+públicos del Estado Dominicano pretende garantizar la eficiente gestión 
+de los servicios y en el mismo se establecen las directrices para asegurar 
+la calidad y los diferentes niveles que se deben establecer. Además, en 
+este capítulo se especifican los diferentes tipos de servicios que pueden 
+ser brindados al ciudadano. 
+
+En el capítulo III, se establece todo lo referente a las pautas para 
+normalizar los canales de atención ciudadana, como es la atención en 
+línea, donde se indica cómo deben estar plasmados los servicios de cara 
+al ciudadano en la web(10) y cómo debe garantizarse la disponibilidad de 
+los mismos; la atención telefónica donde se plantea cómo debe ser la 
+interacción con el ciudadano por medio de los sistemas de voz interactiva 
+y servicio al cliente; y la atención presencial donde se presentan las 
+políticas y procedimientos para prestar servicios al ciudadano.
+El capítulo IV sobre interoperabilidad, se indican las directrices que 
+deben seguir los organismos, a fin de lograr interoperar con otros, 
+permitiendo así el intercambio de información de una manera efectiva, 
+con el objetivo de agilizar los procesos de los servicios que realizan 
+dichos organismos, reduciendo costos y evitando que el ciudadano 
+suministre información que el Estado posee. En este capítulo se 
+presentan 3 dimensiones de la interoperabilidad, esenciales para que 
+esta sea posible, las cuales son al interoperabilidad organizacional, 
+
+(10) Es un sistema de documentación de hipertexto distribuido, los cuales se encuentran 
+interconectados y accesibles desde la web.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. xi1ii3
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+semántica y técnica.
+
+El capítulo V sobre automatización de los servicios tiene como 
+objetivo hacer más eficiente la gestión de los procesos operativos de los 
+organismo del Estado Dominicano, estableciendo las directrices sobre 
+firmas digitales, pago electrónico, sistemas de gestión de relaciones con 
+el cliente (CRM por sus siglas en inglés) y sistemas de planificación de 
+recursos empresariales (ERP por sus siglas en inglés), procurando como 
+buena práctica la optimización de sus recursos tecnológicos. 
+ 
+
+Norma sobre la Prestación y Automatización de los
+
+x1iv4 Servicios Públicos del Estado Dominicano.
+
+
+
+CAPÍTULO I
+NORMA SOBRE LA PRESTACIÓN Y 
+
+AUTOMATIZACIÓN DE LOS SERVICIOS 
+PÚBLICOS DEL ESTADO DOMINICANO
+
+Esta norma indica las directrices y recomendaciones que debe seguir 
+cada organismo del Gobierno Dominicano tanto para la elaboración, 
+prestación y gestión de sus servicios, así como la implementación de 
+servicios transaccionales.
+
+Con estas directrices y recomendaciones se pretende modernizar y hacer 
+más eficientes los servicios públicos ofrecidos a través de los distintos 
+medios de atención ciudadana existentes.
+
+SECCIÓN 1.01     ALCANCE
+
+Las directrices de esta norma deben ser aplicadas por todos los 
+organismos pertenecientes al Poder Ejecutivo, ya sean centralizados, 
+descentralizados, municipios o embajadas, consulados y misiones en el 
+extranjero que ofrezcan o planeen ofrecer servicios tanto presenciales 
+como electrónicos.
+
+Entre los organismos centralizados se encuentran los ministerios y 
+sus dependencias, así como los organismos con nivel de ministerios, 
+vice ministerios, organismos adscritos a la Presidencia de la República, 
+consejos y organismos asesores, direcciones generales, oficinas 
+nacionales, procuradurías fiscales, escuelas públicas, hospitales públicos, 
+bibliotecas, museos y gobiernos locales.
+
+Entre los organismos descentralizados se encuentran las instituciones 
+financieras y las no financieras, organismos reguladores, instituciones 
+de la seguridad social y empresas públicas.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 15
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Los organismos pertenecientes al Poder Legislativo, y al Poder Judicial, 
+así como aquellos organismos que entran dentro de la clasificación 
+de “Organismos Especiales”, según el Ministerio de Administración 
+Pública (MAP), también pueden implementar los estándares indicados 
+en esta norma como un modelo de buenas prácticas.
+
+SECCIÓN 1.02    REFERENCIAS NORMATIVAS
+
+Para la elaboración de los lineamientos sobre el contenido de la carta 
+compromiso se tomó como base la Guía Para el Desarrollo de la Cartas 
+Compromiso al Ciudadano del Ministerio de Administración Pública.
+Para el contenido sobre el catálogo de servicios(11) y niveles de servicio se 
+utilizó el manual de buenas prácticas ITIL en su versión No. 3.
+La NORTIC A5 hace referencia a la norma para la interoperabilidad 
+entre los organismos del Gobierno Dominicano (NORTIC A4), 
+publicada el 10 de junio de 2014, la cual fue tomada como base para la 
+redacción del capítulo sobre interoperabilidad.
+
+SECCIÓN 1.03     TÉRMINOS Y DEFINICIONES
+
+Para fines de esta norma el término “servicio público” será sustituido 
+solo por la palabra “servicio”.
+El término “Intraorganizacional”, hace referencia a cualquier actividad 
+que se realiza dentro del organismo. Por otro lado, el término 
+“Interorganizacional” hace referencia a cualquier actividad que se realiza 
+en conjunto con otros organismos.
+
+SECCIÓN 1.04           CONCEPTOS GENERALES
+
+Para lograr ofrecer los servicios públicos debe tenerse claro el concepto 
+de servicios públicos y el alcance de los mismos. Debido a esto, en esta 
+normativa hemos tomado en cuenta cuatro (4) conceptos claves para 
+facilitar la aplicación de esta norma:
+
+• Servicios.
+• Servicios públicos.
+• Servicios en línea.
+• Servicios transaccionales.
+
+(11) Es un listado de todos los servicios activos de un organismo. Este catálogo contiene todas las 
+informaciones necesarias para el cliente sobre dichos servicios.
+
+Norma sobre la Prestación y Automatización de los
+
+16 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Sub-sección 1.04.1           Servicios
+
+Un servicio es una actividad o conjunto de actividades que pretenden 
+responder a las necesidades de uno o más usuarios.
+
+Atendiendo a su naturaleza y características, los servicios pueden 
+clasificarse de diferentes formas, así que según quién brinde el servicio 
+puede ser un servicio público o un servicio privado.
+
+Mientras que según a quién estén dirigidos pueden ser: servicios de 
+gobiernos a gobierno, de gobierno a ciudadanos, de gobierno al sector 
+privado y de gobierno a los empleados.
+
+Sub-sección 1.04.2       Servicios públicos
+
+Se entiende por servicio público una actividad o conjunto de actividades 
+exclusivas de los organismos del Estado, los cuales están organizados 
+conforme a disposiciones legales y reglamentarias vigentes, con el 
+objetivo de satisfacer de forma regular o continúa a las necesidades 
+de carácter colectivo de los ciudadanos, el sector privado y el mismo 
+Estado.
+Todo servicio público debe poseer las cualidades siguientes:
+
+• Consistencia, ser permanente, lo que permite que el servicio 
+sea ofrecido en el mismo nivel, de forma constante y continua 
+a lo largo del tiempo.
+
+• Agradable, el prestador de servicios públicos deberá ser 
+afable de manera que los clientes se sientan cómodos al 
+recibir el servicio.
+
+• Eficaz, deben ofrecer siempre soluciones y respuestas 
+efectivas a las necesidades de los usuarios.
+
+• Flexible, deben dar atención personalizadas a los usuarios.
+• Diligente, deben ofrecer celeridad en la atención, 
+
+reconociendo que el tiempo de los usuarios es tan valioso 
+como el tiempo del organismo que lo ofrece. 
+
+Sub-sección 1.04.3        Servicios en línea
+
+Son los servicios ofrecidos a través de Internet o por aplicaciones 
+móviles que permiten hacer consultas, solicitudes y gestiones de forma 
+fácil y sin importar el lugar y la hora.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 17
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Sub-sección 1.04.4       Servicios transaccionales
+
+Es un servicio electrónico que permite realizar una transacción o trámite 
+completo entre el usuario de un servicio y el proveedor del mismo.
+
+SECCIÓN 1.05   GESTIÓN DE SERVICIOS
+
+Sub-sección 1.05.1   Directrices Generales sobre Gestión de 
+Servicios
+
+(a) Los organismos que ofrecen servicios al ciudadano deben seguir 
+los siguientes pasos:
+
+(i) Deben reducir el trámite que puede convertirse en un 
+obstáculo puramente burocrático que entorpezca o retarde 
+la entrega eficiente de los servicios al ciudadano.
+
+(ii) Ofrecer servicios bajo el marco de la legalidad.
+
+(iii) Ofrecer servicios a los ciudadanos, sector público o privado 
+desde un punto de vista imparcial.
+
+(iv) El personal del organismo involucrado en la prestación de 
+los servicios debe asesorar a los solicitantes de los servicios 
+en todo momento, sea que este realice el servicio  en línea 
+o presencial.
+
+(v) Los servicios ofrecidos por los organismos deben poseer 
+una documentación sobre los procesos involucrados en la 
+entrega de los mismos.
+
+(vi) Los servicios deben seguir los procedimientos previamente 
+establecidos para la entrega de los mismos.
+
+(vii) Debe existir un mecanismo que permita que los servicios 
+sean evaluados por parte de los consumidores finales.
+
+(viii) Los organismos deben publicar periódicamente los 
+resultados de las evaluaciones realizadas a los servicios.
+
+(ix) Debe existir mecanismos que permitan la mejora continua 
+de los servicios.
+
+Norma sobre la Prestación y Automatización de los
+
+18 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(x) Deben existir protocolos de atención especial para los 
+ciudadanos con discapacidad o condiciones especiales.
+
+(xi) El organismo deben prestar y garantizar servicios que 
+cumplan con los niveles de servicios expuestos en los 
+SLA, en caso de que aplique, o lo estipulado en la carta 
+compromiso. 
+
+(xii) Deben habilitarse espacios idóneos para la atención de los 
+ciudadanos que solicitan servicios o información sobre los 
+mismos.
+
+(xiii) En el caso de servicios transaccionales deben utilizarse 
+herramientas de monitoreo y evaluación para mitigar el 
+riesgo de transacciones fraudulentas. Ver sección 5.02 sobre 
+pago electrónico.
+
+(xiv) Cuando se utilicen canales electrónicos para la prestación 
+de servicios deben emplearse mecanismos de autenticación; 
+así como la instalación de certificados digitales de servidor 
+seguro que permitan garantizar la autenticidad del portal 
+web. 
+
+(b) El organismo debe respetar y proteger la integridad y 
+confidencialidad de los datos personales suministrados por los 
+ciudadanos. Para la protección de estos datos deben seguirse los 
+siguientes pasos:
+
+(i) Los datos personales de los usuarios de los servicios deben 
+ser almacenados de forma tal que los propietarios de dicha 
+información tengan acceso a las mismas.
+
+(ii) Debe informarse a los ciudadanos la finalidad con la cual 
+serán utilizados sus datos personales.
+
+(iii) La información recolectada para fines de ofrecer un servicio 
+únicamente debe utilizarse para los fines especificados.
+
+(iv) La base de datos donde se salvaguarde la información 
+personal de los ciudadanos debe contar con mecanismos 
+que permitan asegurar su disponibilidad, integridad y 
+confidencialidad.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 19
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(v) Debe garantizarse al titular o propietario de la información 
+poder acceder a la acción de habeas data.
+
+(vi) Debe existir un manual de procedimientos que explique el 
+correcto tratamiento de la información personal obtenida 
+con fines de ofrecer algún servicio.
+
+SECCIÓN 1.06     NIVELES DE SERVICIO
+
+ (a) Cada organismo gubernamental debe establecer los Acuerdos de 
+Niveles de Servicio (SLA, por sus siglas en inglés) necesarios con 
+los clientes y proveedores para ofrecer los servicios, siempre que 
+estos lo requieran. 
+
+(b )Los SLA deben contener como mínimo las siguientes informaciones:
+
+  (i)    Descripción del servicio: Donde se  especifique de manera 
+detallada todos los aspectos del servicio brindado.
+
+(ii)   Revisión y vigencia: Donde se establece el tiempo durante el 
+cual es válido el SLA y el procedimiento de revisión establecido.
+
+
+(iii) Objetivo del servicio: Finalidad que se desea alcanzar con el 
+
+servicio brindado.
+
+(iv)  Políticas: Especificación de las políticas que regulan el servicio 
+  brindado.
+
+(v)  Monitoreo del SLA: Especificación de cada qué tiempo se 
+
+estará monitoreando el servicio.
+
+(vi) Contactos: Informaciones de contactos del cliente y del 
+
+representante del departamento de TIC.
+
+( vii)  Quejas y reclamaciones: Informaciones de contactos en donde el 
+
+cliente pueda comunicarse en caso de incumplimiento del SLA.
+
+(viii) Reporte de incidentes: Informaciones de contactos en donde el 
+ usuario se comunique en caso de averías en el servicio.
+
+(ix)  Tiempo de respuesta: Especificación del tiempo de respuesta 
+según la prioridad del incidente.
+
+Norma sobre la Prestación y Automatización de los
+
+20 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+SECCIÓN 1.07     CALIDAD DE LOS SERVICIOS
+
+(a)  Debe preverse cualquier aumento en la demanda de los servicios 
+
+para de esta forma suplir dicha necesidad de servicio con igual 
+nivel de satisfacción a los ciudadanos.
+
+(b)  Debe garantizarse la igualdad y homogeneidad en la prestación de 
+los servicios.
+
+(c)  Debe informársele al usuario sobre los cambios que se realicen al 
+servicio.
+
+(d)  Los servicios deben ser de fácil acceso por parte de los ciudadanos.
+
+(e)  Debe informárseles a los ciudadanos todo lo referente al servicio 
+y lo que resulte de la prestación del mismo en un lenguaje 
+compresible.
+
+(f) El el caso de servicios presenciales, estos deben ofrecerse en lugares 
+adecuados para la prestación de los mismos.
+
+(g) Los organismos deben ofrecer una atención personalizada a los 
+ciudadanos.
+
+(h) Debe existir un sistema de monitoreo de los servicios en cada uno 
+de los canales de atención.
+
+(i) Los organismos de la Administración Pública deben realizar 
+encuestas periódicas para medir la satisfacción de los ciudadanos 
+respecto a los servicios ofrecidos.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 21
+
+
+
+
+
+
+ 
+CAPÍTULO II
+
+PREPARACIÓN DE LOS SERVICIOS PÚBLICOS
+En el siguiente capítulo se aborda la manera en que se estructuran, crean 
+y mantienen los servicios ofrecidos por los organismos gubernamentales, 
+con el objetivo de que los mismos sean brindados al ciudadano y a los 
+demás organismos en rol de clientes, de una forma constante y eficiente.
+
+SECCIÓN 2.01  PREPARACIÓN DEL SERVICIO
+
+Para mejorar los servicios públicos brindados, los organismos 
+gubernamentales deben conformar sus servicios tomando en cuenta 
+aspectos como el nombre que tendrá el servicio, medidas a tomar en 
+caso de fallas y las responsabilidades del mismo para con el ciudadano.
+
+Sub-sección 2.01.1     Composición del nombre 
+
+(a) El nombre del servicio debe crearse tomando en cuenta los 
+siguientes criterios:
+
+• Fácil de recordar; que esté relacionado directamente con 
+lo que se brindará, de modo que el nombre sea como un 
+sinónimo del servicio mismo. 
+
+• Sencillo; evitar que los nombre sean largos y difíciles de 
+pronunciar.
+
+• Singularidad; asegurarse que el nombre del servicio no sea 
+el mismo que se ofrece en algún otro organismo, de manera 
+que no se presenten confusiones.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 23
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Sub-sección 2.01.2            Catálogo de servicios
+
+(a) El organismo debe elaborar el catálogo de servicio cumpliendo 
+con las siguientes directrices:
+
+(i) Los servicios deben agruparse y categorizarse en familias 
+principales de servicio.
+
+(ii) El catálogo de servicio debe estar escrito en un lenguaje 
+simple, evitando los tecnicismos siempre que sea posible.
+
+(iii) Debe contener solo los servicios que estén activos e interesen 
+al cliente, evitando aquellos que no se ofrezcan actualmente o 
+aquellos que se ofrecerán en un futuro.
+
+(iv) Cada servicio debe contener los siguientes datos:
+
+• Nombre y descripción del servicio.
+
+• Departamento propietario del servicio.
+
+• Cliente del servicio.
+
+• Otras partes implicadas (proveedores, organismos, entre 
+otros), cuando aplique.
+
+• Fechas de versión y revisión. 
+
+• Acuerdos de Niveles de Servicios(12)  (SLA, por sus siglas en 
+inglés), cumpliendo con lo especificado en la sub-sección 
+2.03.2 Sobre los Niveles de servicios de la NORTIC 
+A1:2014, en caso de que el servicio lo necesite.  
+
+• Condiciones de prestación del servicio, requisitos para 
+que se pueda brindar el servicio.
+
+• Precio, en caso de que se requiera de algún pago, de lo 
+contrario debe especificarse que es gratuito.
+
+• Cambios y excepciones para la prestación del servicio.
+
+(12) Es un documento que plasma los acuerdos entre un proveedor de servicio y el cliente, en donde 
+se estipulan los requisitos y parámetros que el proveedor se compromete a cumplir para mantener 
+unos niveles de calidad de servicio.
+
+Norma sobre la Prestación y Automatización de los
+
+24 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(b) El catálogo de servicio debe estar disponible para todos los 
+miembros de la mesa de servicio y a quienes el organismo considere 
+necesario. 
+
+(c) Debe elaborarse un plan para el mantenimiento y actualización 
+del catálogo de servicios. Este plan debe incluir:
+
+a) Planificación de actualizaciones para el catálogo: 
+Preparar un plan que contenga el cómo, y cuándo se realizarán 
+las actualizaciones.
+
+b) Planificación de revisiones periódicas: Cada qué tiempo 
+se realizarán las revisiones al catálogo de servicios.
+
+c) Protocolos para aprobación de cambios: Quién y cómo se 
+aprobarán los cambios realizados al catálogo.
+
+d) Políticas para la medición y monitoreo del catálogo de 
+servicio: Con el objetivo de medir el rendimiento de este, la 
+calidad en los servicios ofertados y la eficiencia de los procesos 
+establecidos.
+
+i) La unidad de administración del servicio de TIC debe 
+tener un personal que asuma la función de la ejecución 
+del plan para el mantenimiento y actualización del 
+catálogo de servicio.
+
+Sub-sección 2.01.3       Disponibilidad y continuidad del servicio
+
+(a) El organismo debe realizar un plan de gestión de la disponibilidad 
+del servicio, tomando en cuenta los siguientes puntos:
+
+
+(i) Establecer una estrategia de Gestión de la Disponibilidad del 
+
+Servicio, y en la misma especificar:
+
+• Documentación de los recursos necesarios para mantener 
+el servicio en línea.
+
+• Descripción del sobre uso del servicio por parte del cliente. 
+
+• Informe del rendimiento y disponibilidad del servicio.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 25
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(ii) El organismo debe elaborar encuestas de satisfacción  al 
+ciudadano, en la cual se pueda medir la calidad y disponibilidad 
+del servicio brindado. 
+a) Las encuestas deben elaborarse en base a los siguientes 
+
+criterios:
+
+b) El departamento encargado debe definir el número de 
+encuestas a realizar por servicio brindado.
+
+c) El resultado que arroje debe ser en base a datos de 
+números, respuestas de afirmación/negación o alguna 
+respuesta específica.
+
+i) Deben ser sencillas y con un lenguaje comprensible.
+
+ii) Deben contestarse de manera directa.
+
+iii) No deben estar sujetas a prejuicios.
+
+d) Las encuestas deben realizarse por cualquiera de las vías 
+de comunicación, ya sea web o presencial, siempre y 
+cuando se obtenga una documentación de los resultados 
+de las mismas.
+
+(b) El organismo debe realizar una gestión de la continuidad del 
+servicio, tomando en cuenta los siguientes puntos:
+
+(i) Identificar las dependencias del servicio, realizando una:
+
+a) Identificación y priorización de los servicios esenciales de 
+la organización.
+
+b) Identificación de las funciones principales en que se 
+basan los servicios.
+
+c) Priorizar una lista de las acciones principales a realizar en 
+caso de alguna falla o interrupción.
+
+(ii) Identificar los recursos necesarios para garantizar la 
+continuidad del servicio, tomando en cuenta:
+
+• La identificación y documentación de las dependencias 
+que tiene el servicio, ya sea interna o externa.
+
+Norma sobre la Prestación y Automatización de los
+
+26 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+• La identificación y documentación del personal a cargo de 
+brindar el servicio, así como sus roles.
+
+• Aseguramiento de los registros y las bases de datos, 
+generados por el servicio.  
+
+(iii) Realizar un plan para la continuidad del servicio, en el cual se 
+especifique lo siguiente:
+
+• Una descripción del personal a cargo de llevar y mantener 
+el plan de continuidad del servicio.
+
+• Lista de los mecanismos de comunicación necesarios para 
+ejecutar el plan.
+
+• Lista de los impedimentos como las amenazas y 
+vulnerabilidades que podrían afectar la prestación de los 
+servicios.
+
+• Lista de las personas que se encargan de brindar el servicio, 
+especificando sus roles y funciones.
+
+Apartado 2.01.3.1       Centro de Datos Oficial del Estado
+
+(a) Como medida de prevención y salvaguardar la información 
+generadas por los servicios ofrecidos, los organismos 
+gubernamentales deben tener alojados copia de sus datos en el 
+Centro de Datos Oficial del Estado Dominicano, cumpliendo con 
+lo especificado en la sección 4.03 de la NORTIC A1:2014, 
+sobre servicios en la nube y seguir los siguientes procesos:
+
+
+• Realizar el levantamiento de las informaciones que desean 
+
+alojar en el Centro de Datos.
+
+• Realizar la debida solicitud a la OPTIC para la inclusión en 
+el servicio.
+
+• Seguir los procesos establecidos por el personal responsable 
+encargado de llevar a cabo el alojamiento de los datos.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 27
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Sub-sección 2.01.4        Metadatos
+
+(a) Debe organizarse, clasificarse y relacionarse la información 
+reutilizable relacionada con los servicios, en función de 
+metadatos(13).
+
+(b) La estructura de los metadatos se definirá mediante el Vocabulario 
+para Catálogo de Datos(14)  (DCAT, por sus siglas en inglés), como 
+se especifica en la NORTIC A3:2014 sobre Publicación de 
+Datos Abiertos del Gobierno Dominicano.
+
+(c) Cada conjunto de datos debe ofrecer los metadatos siguientes:
+
+(i) Título; el cual define el nombre del conjunto de datos.
+
+(ii) Descripción; donde se explica de forma breve de que trata el 
+contenido del conjunto de datos.
+
+(iii) Organismo; el cual contiene el nombre del organismo 
+gubernamental.
+
+(iv) Licencia; donde se especifica el tipo de derecho de uso, copia, 
+distribución o modificación de la información publicada.
+
+(v) Categoría; indicando con cuál de las categorías 
+determinadas en la sección 3.01.a, sobre la categorización 
+de la información reutilizable de la NORTIC A3:2014, se 
+relaciona el conjunto de datos.
+
+(vi) Sub-categoría; este es otro nivel de especificación del 
+conjunto de datos para delimitar mucho más su naturaleza 
+informativa. Para este caso, se utilizarán las sub-categorías 
+determinadas en la sección 4.03.ii. de la NORTIC A3:2014.
+
+(vii) Fecha de publicación; especificando la fecha de publicación 
+del conjunto de datos y la hora, la cual debe estar basada 
+en el sistema horario de 24 horas. Este metadato debe estar 
+expresado de la forma siguiente: AAA-MM-DD hh:mm:ss.
+
+(13) Son un conjunto de información que describe las características de otra información. Es “datos 
+sobre datos”.
+
+(14) Es un estándar definido por el Consorcio World Wide Web (W3C) y diseñado para facilitar la 
+interoperabilidad entre catálogos de datos publicados en la Web.
+
+Norma sobre la Prestación y Automatización de los
+
+28 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(viii) Fecha de actualización; especificando la fecha de la última 
+modificación del conjunto de datos y la hora, acatándose a la 
+directriz de la sección 4.04.c.vii, sobre los Metadatos de 
+la NORTIC A3:2014.
+
+(ix) Recurso; aludiendo a todos los contenidos o diferentes 
+formatos comprendidos en el conjunto de datos. 
+
+(x) Palabras claves; indicando los términos y separados por 
+coma (,) que logren describir el conjunto de datos.
+
+(xi) Cobertura geográfica; especificando el municipio, la 
+provincia, la región y el país.
+
+Sub-sección 2.01.5     Carta compromiso
+
+(a) Todo organismo gubernamental que ofrezca servicios debe contar 
+con una carta compromiso, y en la misma indicar los servicios que 
+está en disposición de brindar al ciudadano y otros organismos del 
+Estado Dominicano.
+
+ 
+(b) La carta compromiso debe contener como mínimo los siguientes 
+
+criterios:
+
+(i) Una relación de los servicios que se ofrecen, organizados por 
+servicios al ciudadano y servicios intraorganizacionales, y que 
+los mismos contengan la siguientes informaciones: 
+
+• Nombre del servicio.
+
+• Descripción del servicio.
+
+• Información y/o documentos requeridos al ciudadano.
+
+• Área responsable de brindar el servicio.
+
+(ii) Derechos y deberes de los ciudadanos u otros organismos en 
+relación al servicio brindado.
+
+(iii) Vías de comunicación por las cuales el ciudadano o el organismo 
+pueda tener comunicación con el proveedor del servicio.  
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 29
+
+
+
+
+
+
+CAPÍTULO III
+CANALES DE ATENCIÓN CIUDADANA
+
+En este capítulo se establecen las directrices para la correcta prestación 
+de servicios al ciudadano por medio de las diferentes vías como son los 
+canales en atención en línea, canales de atención telefónica y canales de 
+atención presencial.
+
+SECCIÓN 3.01       ATENCIÓN EN LÍNEA
+
+(a) Los organismos gubernamentales deben tener todos sus servicios 
+en sus medios web(15) disponibles para los ciudadanos.
+
+(i) Todos los servicios disponibles en los medios web de los 
+organismos gubernamentales deben tener las siguientes 
+informaciones disponibles:
+
+• Nombre formal.
+
+• Nombre informal.
+
+• Descripción del servicio.
+
+• A quien va dirigido el servicio.
+
+• Departamento que ofrece el servicio.
+
+• Contactos de departamento que ofrece el servicio 
+(Teléfono, fax, correo electrónico institucional).
+
+• Requerimientos del servicio.
+
+(15) Para fines de esta norma, se utiliza este término para agrupar los portales web, la versión 
+móvil del mismo, el sub-portal de transparencia y todos aquellos sitios web desarrollados por un 
+organismo.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 31
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+• Procedimientos del servicio.
+
+• Horario de prestación del servicio.
+
+• Costo del servicio.
+
+• Tiempo de realización del servicio.
+
+• Acceso al servicio en caso de tener una plataforma para la 
+prestación del mismo.
+
+• Otras vías de solicitud del servicio.
+
+• Información adicional sobre el servicio.
+
+(b) Los organismos gubernamentales deben tener políticas para la 
+prestación de servicios en línea.
+
+(i) Los organismos gubernamentales deben establecer una 
+periodicidad de revisión de los servicios en línea y validar las 
+informaciones de los mismos.
+
+(ii) En caso de que el ciudadano se encuentre en un formulario 
+para algún proceso de solicitud de servicio, y este necesite 
+colocar sus datos personales, el organismo gubernamental 
+debe proteger los datos del ciudadano.
+
+(iii) El organismo gubernamental debe informar al ciudadano lo 
+siguiente al terminar su solicitud de servicio:
+
+a) Número de solicitud de servicio asignado.
+b) Tiempo de entrega o resultado del servicio.
+c) Vías por las que se estará siendo contactado.
+d) Vías por las que el usuario puede contactarse para 
+
+informarse sobre su solicitud.
+i) Dentro de las vías de comunicación para el usuario obtener 
+
+información sobre la solicitud del servicio, debe incluirse un 
+contacto de escalamiento en caso de que la solicitud supere 
+la cantidad de días previamente establecidos, incluyendo las 
+siguientes informaciones:
+
+
+
+Norma sobre la Prestación y Automatización de los
+
+32 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+e) Nombre.
+f) Apellido.
+
+g) Cargo.
+
+h) Teléfono.
+
+i) Extensión (si aplica).
+
+j) Correo institucional.
+
+k) Cualquier otra información que sea de interés al 
+ciudadano sobre la solicitud del servicio.
+
+(iv) Los organismos gubernamentales no deben fomentar el uso de 
+papel por parte del ciudadano en caso de requerir la presencia 
+del mismo para brindar el servicio solicitado.
+
+(v) Los servicios ofrecidos en línea por los organismos 
+gubernamentales deben ser anti-trámite.
+
+(vi) Los servicios deben estar disponibles en línea 24/7, los 365 
+días del año.
+
+(vii) Los organismos gubernamentales deben mantener un lenguaje 
+simple y llano sobre las informaciones de los servicios en línea.
+
+(c) Los organismos deben tener un sistema de métricas para medir la 
+satisfacción del ciudadano al momento de brindarle un servicio en 
+línea.
+
+(i) Dentro de las métricas deben tomarse en cuenta lo siguiente:
+a) Nombre del servicio.
+b) Tiempo de realización del servicio.
+c) Departamento encargado de brindar el servicio.
+d) Fecha de solicitud del servicio.
+e) Fecha de cierre de solicitud del servicio.
+f) Servicios atendidos por año y mes.
+g) Servicios completados por año y mes.
+h ) Servicios no completados por año y mes.
+i) Valoración del servicio por el ciudadano.
+
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 33
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(d) Los servicios en línea brindados por los organismos 
+gubernamentales deben ser accesibles y usables.
+
+(i) Los servicios ofrecidos en línea deben ser visualizados por los 
+ciudadanos en cualquier dispositivo.
+
+(ii) Los servicios ofrecidos en línea deben tener la capacidad de 
+ser accedidos por personas con discapacidad.
+
+Sub-Sección 3.01.1.  Directrices sobre las notificaciones a los 
+usuarios
+
+(a) Los organismos gubernamentales deben notificar al ciudadano 
+sobre actualizaciones o cambios en las solicitudes de los servicios.
+
+(i) El organismo debe mantener al usuario informado sobre el 
+estado de su solicitud de servicio por medio de cualquiera de 
+las siguientes vías:
+
+• Correo electrónico.
+
+• Sistema de seguimiento de caso.
+
+• Vía telefónica.
+
+• Servicio de mensajes simples (SMS, por sus siglas en 
+inglés).(16)
+
+• Cualquier otro medio considerado por el organismo.
+
+(b) Los organismos gubernamentales no deben utilizar los correos 
+pertenecientes a los ciudadanos para enviar correos spam con 
+noticias, publicidades, eventos, entre otros.
+
+Sub-Sección 3.01.2.  Creación de formularios procesos o 
+transacciones
+
+(a) Los organismos gubernamentales deben tomar en cuenta las 
+siguientes directrices para la creación de formularios de servicios 
+en línea:
+
+(16) Es un servicio de telefonía móvil para el envío de mensajes cortos.
+
+Norma sobre la Prestación y Automatización de los
+
+34 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(i) Los nombres de los campos deben ser claros y puntuales.
+
+(ii) Los formularios deben tener validaciones de la clase de 
+información que solicitan.
+
+(iii) El estilo grafico de los formularios deben estar acorde al estilo 
+grafico del medio web donde están alojados.
+
+(iv) Los formularios deben ser usables y accesibles.
+
+a) Los formularios deben ser completamente funcionales 
+en cualquier dispositivo, siendo estas computadoras de 
+escritorio, tabletas o celulares inteligentes.
+
+b) Los campos de los formularios deben utilizar el tag (17) longdesc 
+para describir con más detalles el propósito del campo 
+que el organismo requiere.
+
+c) El formulario debe ser perfectamente visible sin necesidad 
+de utilizar una hoja de estilo(18).
+
+d) Los formularios no deben utilizar imágenes en sustitución 
+de texto.
+
+e) Los nombres y descripciones de los campos de los 
+formularios deben estar disponibles en audio y/o otros 
+formatos que puedan ser leídos por programas para 
+personas discapacitadas.
+
+(v) La tipografía utilizada por el formulario debe ser la misma 
+utilizada por el medio web donde este resida.
+
+(vi) Los formularios deben tener notificaciones de los siguientes 
+tipos antes del envió de la información al organismo:
+
+a) Notificación de campos completados correctamente.
+
+b) Notificación de campos completados incorrectamente.
+
+(17) Es una etiqueta o palabras clave para enriquecer los atributos de un dato específico.
+(18) Son archivos con códigos en cascada que le indican al portal web cómo debe verse en sentidos 
+
+gráficos y visuales.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 35
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+c) Alertas que sean de interés al ciudadano.
+(vii) Los formularios deben tener globos de ayuda(19) para los 
+
+campos que lo requieran.
+
+(viii) Los formulario deben presentar las informaciones establecidas 
+en el apartado 3.01.1.b.iii luego de este ser completado por 
+el ciudadano.
+
+(ix) Los formularios deben utilizar los campos correctos 
+dependiendo el tipo de información requerida por el 
+organismo para brindar el servicio en línea, a continuación 
+los diferentes campos y sus usos:
+
+a) Botones radio: También conocidos como Radio 
+buttons, deben ser utilizados para respuestas sencillas.
+
+b) Campos de cotejo: También conocidos como Check box, 
+deben ser utilizados para seleccionar múltiples respuestas.
+
+c) Menús desplegables: También conocidos como Dropdown 
+menús, deben ser utilizados en sustitución del botón radio 
+cuando se disponen de muchas respuestas. Ejemplo: 
+Seleccione su país de origen.
+
+d) Campos de texto: También conocidos como textbox, 
+deben ser utilizados para respuestas personalizadas y 
+particulares del ciudadano. Ejemplo: Escriba su nombre.
+
+(x) Los formularios deben utilizar marcadores de posición, 
+también conocidos como placeholders, para dar una idea más 
+clara al ciudadano de lo que requiere el organismo para poder 
+brindar el servicio.
+
+(xi) Los formularios deben diferenciar los campos obligatorios de 
+los opcionales.
+
+(xii) Los formularios deben utilizar mascaras para campos que 
+requieran contraseñas.
+
+(19) Son elementos que brindan información relevante de ayuda al usuario sobre un contenido, 
+interfaz o aplicación en específico.
+
+Norma sobre la Prestación y Automatización de los
+
+36 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(xiii) Los formularios que excedan los 800px de alto, deben ser 
+divididos por pasos y notificar al ciudadano la cantidad de 
+pasos totales, los pasos restantes y el paso actual donde se 
+encuentra.
+
+(xiv) Los formularios no deben tener deshabilitada la función de 
+autocompletado.
+
+Sub-Sección 3.01.3.  Integración al Portal del Estado 
+Dominicano www.gob.do
+
+(a) Los organismos gubernamentales deben estar integrados al Portal 
+del Estado Dominicano (www.gob.do).
+
+(i) Todos los servicios del organismo deben estar cargados y 
+actualizados en el Portal del Estado Dominicano.
+
+• Todas las informaciones sobre el organismo que residan en 
+el Portal del Estado Dominicano deben ser revisadas por 
+un tiempo prudente establecido por el organismo, para 
+garantizar que la información sobre los servicios y demás 
+contenidos estén actualizados al día.
+
+( ii) Los organismos gubernamentales deben subministrar las siguientes 
+informaciones a la OPTIC, organismo gubernamental encargado 
+del Portal del Estado Dominicano, como sigue:
+• ¿A quién va dirigido el servicio?
+• Resultado del servicio.
+• Duración del servicio.
+• Requerimientos del servicio.
+• Documentos requeridos para adquirir el servicio.
+• Procedimiento para adquirir el servicio.
+• Costo del servicio.
+• Tiempo de entrega del resultado del servicio.
+• Horario del servicio.
+• Enlace para tramitar el servicio en línea (si aplica).
+• Cualquier otra información de interés al usuario.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 37
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Sub-Sección 3.01.4.             Redes sociales
+( a) Los organismos gubernamentales deben utilizar las redes sociales 
+
+como canales de difusión de sus servicios llevando a cabalidad las 
+directrices establecidas a continuación:
+(i) Los organismos gubernamentales deben cumplir las 
+
+directrices establecidas en la Norma para la gestión de las 
+redes sociales en los organismos gubernamentales (NORTIC 
+E1:2014) o en su defecto, estar certificados en la misma. A 
+continuación algunas directrices a tomar en cuenta:
+i) El nombre de usuario del organismo debe ser el mismo 
+
+en todas las redes sociales.
+
+ii) El nombre de usuario que debe utilizarse es la sigla 
+del organismo, o en su defecto, el nombre por el que 
+sea más popularmente conocido, seguido de la palabra 
+“RD”.
+
+iii) La imagen de perfil de todas las redes sociales de 
+los organismos gubernamentales deben tener la 
+identidad país como se especifica en el Capítulo III. 
+Personalización y configuración de los medios sociales 
+de la Norma para la gestión de las redes sociales en los 
+organismos gubernamentales (NORTIC E1:2014).
+
+iv) El organismo debe tener un Área de gestión de los 
+medios sociales como se especifica en el Capítulo II. 
+Levantamiento del área de gestión de medios sociales 
+de la Norma para la gestión de las redes sociales en los 
+organismos gubernamentales (NORTIC E1:2014).
+
+(b) Los organismos gubernamentales deben tener programadas 
+publicaciones semanales de difusión de sus servicios al 
+ciudadano.
+
+(c) El moderador de medios sociales del organismo gubernamental 
+debe estar al tanto de los servicios ofrecidos por su entidad y 
+estar capacitado para poder responder cualquier pregunta de los 
+ciudadanos.
+
+(d) Las cuentas de las redes sociales de los organismos 
+gubernamentales deben estar verificadas.
+
+Norma sobre la Prestación y Automatización de los
+
+38 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Sub-Sección 3.01.5.                Chat
+
+(a) Los organismos gubernamentales que dispongan de un sistema 
+de chat para ofrecer sus servicios al ciudadano deben tomar en 
+cuenta lo siguiente:
+
+(i) El sistema de chat debe tener un formulario requiriendo las 
+siguientes informaciones antes de la prestación del servicio:
+
+• Nombre.
+• Apellido.
+• Correo electrónico:
+
+i) A este correo debe ser enviado una copia de toda la 
+conversación con el asistente que brinda el servicio por 
+medio del sistema.
+
+• Servicio.
+
+i) Debe existir un listado de los servicios para que el 
+ciudadano pueda elegir el servicio del cual desea más 
+información o asistencia.
+
+• Pregunta.
+
+i) Debe existir un campo donde el ciudadano pueda 
+colocar más detalles sobre su consulta sobre el servicio 
+para que el asistente pueda dar un servicio más 
+eficiente.
+
+(b) El ciudadano debe ser atendido en un máximo de 5 minutos 
+por un asistente del organismo.
+
+(c) El sistema de chat debe estar disponible durante el tiempo de 
+operación diaria del organismo gubernamental.
+
+(d) Al concluir la asistencia por medio del sistema de chat, 
+el sistema debe ofrecer una encuesta de satisfacción con la 
+siguiente información:
+
+a) Cómo valoraría el servicio brindado en un rango del 
+1 al 5, siendo 1 el menos satisfactorio, y el 5 el más 
+satisfactorio.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 39
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Sub-Sección 3.01.6.                Prestación de servicios en la nube
+
+(a) Los organismos gubernamentales que brinden servicios en la 
+nube deben seguir las siguientes directrices:
+
+(i) Los organismos gubernamentales deben cumplir con las 
+directrices establecidas en el Capítulo VI. Seguridad de las 
+TIC de la Norma general sobre el uso e implementación 
+de las Tecnologías de la Información y Comunicación 
+en el Estado Dominicano (NORTIC A1:2014), o en su 
+defecto, estar certificados en esta normativa.
+
+a) Tomando en cuenta esto se asegura, tanto la continuidad 
+de los servicios que estén alojados en la nube, como la 
+seguridad de la información y su confidencialidad por 
+medio de:
+
+- Que la información almacenada este resguardada, y 
+no está expuesta a que esta se pueda dañar, perder o 
+corromper.
+
+- Que la información almacenada no puedan ser 
+accedidos por un tercero no autorizado.
+
+- Que la información almacenada por el proveedor no 
+sea accedida por este con fines distintos a lo estipulado 
+en el contrato entre los organismos.
+
+- Que la información almacenada este siendo 
+transportada de forma segura a todos los puntos de 
+consumo.
+
+(ii) Los organismos gubernamentales deben contemplar los 
+siguientes tipos de infraestructuras en la nube:
+
+a) Nube pública: Es una infraestructura que está disponible 
+al público a través el internet.
+
+b) Nube privada: Es una infraestructura especializada y 
+privada para un organismo en particular.
+
+c) Nube comunitaria: Es una infraestructura compartida 
+fruto de una alianza entre dos o más organismos 
+gubernamentales las cuales tienen un objetivo similar y 
+políticas de seguridad en común.
+
+Norma sobre la Prestación y Automatización de los
+
+40 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+d) Nube hibrida: Es la infraestructura en la nube que utiliza 
+varios tipos de las nubes anteriormente mencionadas, 
+cada ambiente por separado, pero unidas por la 
+misma infraestructura tecnológica permitiendo la fácil 
+portabilidad de los datos entre nubes.
+
+(iii) Los organismos gubernamentales deben contemplar los 
+siguientes tipos de servicios en la nube:
+
+a) Software como servicio (SaaS): Consiste en un 
+repositorio de aplicaciones o programas los cuales han 
+sido diseñados para ser el servicio persé bajo demanda.
+
+b) Plataforma como servicio (PaaS): Consiste en el 
+servicio bajo demanda que engloba tanto el hardware(20) 
+como el software(21)  para brindar un servicio, permitiendo 
+la elasticidad de la capacidad en caso de ser requerido.
+
+c) Infraestructura como servicio (IaaS): Consiste en el 
+servicio donde básicamente la infraestructura tecnológica 
+como servidores, programas, equipamiento de red, entre 
+otros, son el servicio persé ofrecido a los organismos 
+gubernamentales con fines de crear entornos controlados 
+para ejecutar servicios propios del organismo, gestionar 
+desarrollos, probar aplicaciones, entre otros.
+
+Sub-Sección 3.01.7.                  Correo electónico 
+
+(a) Los organismos gubernamentales que presten servicios a través de 
+correo electrónico deben tomar en cuenta lo siguiente:
+
+
+(i) El agente designado para atender la solicitud de servicios 
+
+por el ciudadano debe remitir al mismo un correo con las 
+siguientes informaciones
+
+• Numero de solicitud.
+• Nombre de solicitante.
+
+(20)   Se refiere a todas las partes físicas o tangibles de un sistema de información.
+(21) Se refiere a todos los componentes lógicos o intangibles de un sistema de información, tales como 
+
+programas, aplicaciones, sistemas operativos, entre otros. Telecomunicaciones.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 41
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+• Apellido de solicitante.
+• Servicio solicitado.
+• Tiempo de respuesta.
+• Costo de servicio.
+• Cualquier otra información de interés al usuario.
+
+(b) Al final de la prestación del servicio, este debe ser evaluado 
+por medio de una encuesta de satisfacción como sigue:
+
+a) Pregunta: ¿Cómo evalúa la prestación de este servicio?
+b) Opción de respuesta 1: Excelente.
+c) Opción de respuesta 2: Buena.
+d) Opción de respuesta 3: Mala.
+e) Opción de respuesta 4: Muy mala.
+f) Campo libre: Comente brevemente la razón de su 
+
+valoración.
+(c) La encuesta de satisfacción del ser vía una plataforma web y 
+
+no por el mismo correo para la protección del anonimato del 
+ciudadano y garantizar su objetividad.
+
+SECCIÓN 3.02            ATENCIÓN TELEFÓNICA
+ 
+La atención telefónica es un medio por donde se reciben y atienden 
+llamadas que la ciudadanía hace para realizar solicitudes de 
+información acerca de los distintos servicios que ofrecen los organismos 
+gubernamentales, también para interponer denuncias, quejas, 
+reclamaciones y sugerencias a los mismos.
+
+Sub-Sección 3.02.1.  Directrices Generales de la Atención 
+Telefónica
+
+(a) Para asegurar un adecuado contacto telefónico con el ciudadano 
+debe tomar en cuenta las siguientes directrices:
+
+(i) El organismo debe crear un script de entrada y salida.
+
+(ii) El organismo debe crear una política de calidad de la atención 
+telefónica.
+
+Norma sobre la Prestación y Automatización de los
+
+42 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(iii) El organismo debe crear una política de monitoreo de la 
+atención telefónica. 
+
+(iv) El representante debe saludar al ciudadano.
+(v) El representante debe dar su nombre al ciudadano.
+(vi) El representante debe utilizar un tono cálido y amable al 
+
+inicio, durante y al final de la conversación.
+(vii) El representante debe identificar la información que el 
+
+ciudadano desea. Para obtener la información deben utilizar 
+las siguientes preguntas:
+
+a) Preguntas abiertas: con este tipo de pregunta obtendrá 
+la información con más profundidad por parte del 
+ciudadano.
+
+b) Preguntas cerradas: con este tipo de pregunta obtendrá 
+la información de forma concreta.
+
+c) Preguntas aleatorias: con este tipo de pregunta 
+obtendrá varias respuestas por parte del ciudadano.
+
+(viii) El representante debe reflejar seguridad al momento de dar la 
+información al ciudadano.
+
+(ix) El representante debe indicarle al ciudadano los documentos 
+que tiene que llevar para adquirir el servicio.
+
+(x) El representante debe indicarle al ciudadano el horario en que 
+puede adquirir el servicio.
+
+(xi) El representante debe indicarle al ciudadano si el servicio que 
+está solicitando tiene costo.
+
+
+(xii) El representante debe indicarle al ciudadano si desea alguna 
+
+otra información.
+(xiii) El representante debe dar su nombre al finalizar la conversación 
+
+con el ciudadano.
+
+(xiv) El representante debe agradecer al ciudadano por utilizar los 
+servicios.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 43
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Sub-Sección 3.02.2.  Sistema de respuesta de voz interactiva 
+
+(a) Todo Organismo Gubernamental debe disponer de un IVR 
+estandarizado.
+
+(b) El IVR debe estar disponible las 24/7/365.
+
+(c) El IVR debe transferir a la operadora cuando el ciudadano no 
+marque ninguna opción en un tiempo razonable.
+
+(d) No deben existir extensiones inválidas.
+
+(e) Cuando el ciudadano marque una extensión o es transferido y no 
+se comunique, el IVR debe mencionarle las siguientes opciones:
+
+• No.1: Grabar un mensaje de voz, donde se le permita al 
+ciudadano dejar un mensaje grabado.
+
+• No.2: Retornar al menú principal, donde se le permita al 
+ciudadano volver al inicio del menú.
+
+(f) El IVR debe tener la opción “Repetir opciones”, donde se le 
+permita al ciudadano escuchar nuevamente las opciones del 
+menú.
+
+(g) El IVR debe informarle al ciudadano el horario laboral cuando el 
+mismo llame en horario no laborales al organismo.
+
+(i) El mensaje de bienvenida del IVR debe mencionar:
+
+• Saludo Cordial.
+• Nombre del Organismo.
+
+(h) Cuando el ciudadano ingrese datos, ya sean generales como 
+personales, el IVR debe estar configurado para finalizar la función 
+con la tecla almohadilla (#).
+
+(i) El IVR debe indicar el número de la opción antes del nombre o 
+descripción de la misma.
+
+(i) El IVR debe estar configurado para soportar mínimo 3 niveles 
+de profundidad, los cuales se identificarán como primer nivel, 
+segundo nivel y tercer nivel.
+
+Norma sobre la Prestación y Automatización de los
+
+44 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+   (i)   Para el primer nivel deben reservarse las siguientes opciones:
+
+• Opción No. 0: Operadora, donde el usuario se comunique 
+rápidamente con un representante del organismo.
+
+• Desde la opción No.1 hasta la No. 6 son opciones abiertas 
+para el organismo, donde podrá hacer lo que considere.
+
+• Opción No. 7: Extensiones de los departamentos, donde se le 
+facilite al ciudadano todos los departamentos del organismo.
+
+• Opción No. 8: Información del organismo gubernamental, 
+donde debe reservarse estas opciones para ofrecer las 
+informaciones siguientes:
+– Opción No.1: Horario laboral.
+– Opción No.2: Localidades (Si aplica).
+– Opción No.3: Servicios (Si aplica).
+– Opción No.4: Canales de acceso, donde se facilite al 
+
+ciudadano otras vías por las que se puede comunicar con 
+el organismo.
+
+– Opción No.7: Retornar al menú anterior.
+
+– Opción No.9: Repetir opciones.
+
+– Opción No.0: Operadora.
+– Cualquier otra información que el organismo considere de 
+
+relevancia para el ciudadano.
+(ii) Para el segundo nivel debe reservarse las opciones siguientes:
+
+• Opción No.7: Retornar al menú anterior.
+• Opción No.9: Repetir opciones.
+• Opción No.0: Operadora.
+
+(iii) Para el tercer nivel debe reservarse las opciones siguientes:
+• Opción No.7: Retornar al menú anterior.
+• Opción No.8: Retornar al menú principal.
+
+• Opción No.9: Repetir opciones.
+• Opción No.0: Operadora.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 45
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(j) Las grabaciones de los menús o notificaciones  emitidas por el 
+IVR deben ser definidas por el organismo y debe cumplirse con 
+los siguientes requerimientos:
+
+(i) La voz utilizada para el IVR debe ser la misma en todas las 
+opciones.
+
+(ii) No es permitido usar ningún tipo de aplicación que emule a 
+la voz humana.
+
+(iii) Debe permitirse al ciudadano interrumpir cualquiera de los 
+mensajes del IVR, sin importar el nivel, para que este pueda 
+acceder a la opción deseada del menú.
+
+(iv) Debe procurarse ordenar las opciones, desde las más 
+demandadas hasta la menos.
+
+(v) Debe informarse al ciudadano los días no laborables.
+(vi) Debe informarse al ciudadano cuando su llamada puede estar 
+
+siendo grabada.
+(k) El IVR debe generar reportes de cantidad de llamadas atendidas, 
+
+opciones más usadas y tiempo de atención.
+(l) El personal de administración de las redes y comunicaciones, será 
+
+el responsable de la generación de reportes y mantenimiento del 
+IVR.
+
+(m) El IVR debe informarle al ciudadano con anticipación sobre 
+cualquier mantenimiento que se vaya a realizar a la plataforma del 
+IVR que interrumpa el sistema.
+
+(n) Debe informársele al ciudadano cualquier cambio de programación 
+del menú del IVR.
+
+(ñ) Todo organismo debe tener disponibilidad de las partes físicas 
+utilizadas por el IVR, con el fin de minimizar el impacto en caso 
+de fallas en el sistema y darle una solución rápida y efectiva.
+
+(o) Todo organismo debe contar con respaldos de información que 
+permitan garantizar que no haya pérdidas de informaciones 
+registradas  como lo muestra la Norma general sobre el uso 
+e implementación de las Tecnologías de la Información y 
+Comunicación en el Estado Dominicano (NORTIC A1:2014).
+
+Norma sobre la Prestación y Automatización de los
+
+46 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Sub-Sección 3.02.2.              *GOB
+
+(a) Todas los organismos que ofrezcan servicios al ciudadano deben 
+estar incluidos en el *GOB.
+
+(i) El *GOB está conformado por 3 líneas telefónicas como se 
+muestra a continuación: 
+
+• Línea *462: esta tiene la finalidad de ofrecer a los 
+ciudadanos informaciones, consultas y trámites de los 
+diferentes servicios que ofrecen los organismos de la 
+Administración Pública.
+
+• Línea 700: esta es utilizada para realizar denuncias 
+de abuso de niños, niñas y adolescentes para recibir 
+orientación sobre el manejo de casos de abuso infantil así 
+como también para reportar niños extraviados.
+
+• Línea 311: esta tiene la finalidad de poner a disposición 
+del ciudadano una herramienta para que el mismo pueda 
+realizar Denuncias, Quejas, Reclamaciones y Sugerencias 
+a cualquier organismo o servidor del Gobierno de la 
+República Dominicana, para que las mismas puedan ser 
+canalizadas a las autoridades correspondientes.
+
+Apartado 3.02.2.1.   Procedimiento para pertenecer al *GOB
+
+(a) Para pertenecer a la Línea *462 el organismo debe seguir los 
+siguientes pasos:
+
+(i) La Institución de Administración Pública (IAP) que desee 
+incluirse debe comunicarse a través de un correo, llamada 
+telefónica o comunicación verbal con el Director de la Oficina 
+Presidencial de Tecnologías de la Información y Comunicación 
+(OPTIC).
+
+(ii) El Encargado de Operaciones del Centro de Contacto 
+Gubernamental (CCG) le enviará un Formulario de Inclusión 
+de Nueva Institución al IAP.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 47
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(iii) Se convocará una reunión para dar inicio al proyecto donde se 
+trataran los siguientes puntos:
+
+• Entrega del formulario de inclusión debidamente 
+completado.
+
+• Se designa la persona encargada de la gestión del contenido 
+de la IAP.
+
+• Se define la matriz de escalamiento.
+
+• Se definen cuales servicios de la IAP se incluirán.
+
+• Se presenta el formulario de Levantamiento de 
+Información.
+
+• Se presenta el acuerdo de colaboración interinstitucional.
+
+• Se define la estrategia de comunicación y difusión.
+
+(iv) El CCG recibe el formulario de Inclusión de Nueva Institución.
+
+(v) El CCG envía el formulario de Solicitud de Contrato al 
+Gerente Jurídico para la gestión del acuerdo de servicio a ser 
+suscrito con la IAP solicitante.
+
+(vi) El CCG crea el plan de trabajo para la incorporación de 
+la IAP al *462 y lo envía a la misma para su revisión junto 
+al Formulario  de Información de la IAP, indicando la 
+información de contacto del Coordinador de Documentación 
+de la OPTIC.
+
+(vii) Una vez confirmada la revisión del plan de incorporación de 
+la IAP al *462, se remite al Coordinador de Documentación 
+vía correo electrónico el plan de trabajo y el detalle de la nueva 
+institución a ser incorporada.
+
+(viii) En caso de que el proyecto sea suspendido o cancelado  se 
+procederá a llenar un Formulario de Suspensión de Inclusión 
+de Nueva Institución al *GOB.
+
+
+(b) Para pertenecer a la Línea 311 debe seguir los siguientes pasos:
+
+Norma sobre la Prestación y Automatización de los
+
+48 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(i) Enviar el Formulario de Vinculación de Institución al Sistema 
+311 y Designación de Enlace en seguimiento al Decreto 
+Presidencial No. 694-09.
+
+(ii) Luego de recibir el Formulario, debe remitir al Coordinador 
+de Entrenamiento del CCG vía correo electrónico la solicitud 
+de capacitación para la nueva IAP incorporada.
+
+SECCIÓN 3.03             ATENCIÓN PRESENCIAL
+
+A través de la Atención Presencial el ciudadano puede acceder 
+personalmente a los servicios que ofrecen los diferentes organismos y 
+de igual manera pueden realizar diferentes trámites y vincularse a los 
+distintos programas sociales ofrecidos por los mismos.
+
+Sub-Sección 3.03.1. Directrices Generales de la Atención Presencial
+
+(a) El representante debe saludar al ciudadano.
+
+(b) El representante debe utilizar un tono de voz adecuado.
+
+(c) El representante debe mostrar interés sobre lo que el ciudadano 
+requiere.
+
+(d) El representante debe mantener una postura adecuada.
+
+(e) El representante debe mostrar seguridad al momento de dar la 
+
+información.
+
+(f) El representante debe tener su carnet de identificación.
+
+(g) El representante debe estar vestido de forma adecuada.
+
+(h) El representante debe tener su posición en orden.
+
+(i) El representante debe indicarle al ciudadano si desea alguna otra 
+información.
+
+(j) El representante debe agradecer al ciudadano por utilizar los 
+servicios.
+
+(k) El representante debe despedirse del ciudadano.
+
+(l) El centro de atención presencial debe estar señalizado.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 49
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(m) El centro de atención presencial debe garantizar la entrega 
+de servicios públicos de manera efectiva y eficiente cuando el 
+ciudadano lo solicite.
+
+(n) El centro de atención presencial debe proporcionar al ciudadano 
+calidad y atención en el servicio.
+
+Sub-Sección 3.03.2. Procedimiento para pertenecer al Punto GOB
+
+( a) Para pertenecer al Punto GOB el Director de Atención Ciudadana 
+o la Institución de Administración Pública (IAP), deben solicitar 
+de manera formal y a través de una carta la inclusión de la IAP o 
+determinados servicios en el Centro de Atención Presencial (CAP).
+
+(b) El Director de Atención Ciudadana debe velar por que se cumplan 
+las siguientes actividades:
+
+(i) Elaborar una estrategia de acercamiento para las IAP 
+interesadas en ser incluidas en el Punto GOB.
+
+(ii) Gestionar la comunicación y relación con el cliente.
+
+(iii) El CAP debe realizar la  presentación del perfil del Centro de 
+Atención Presencial y sus objetivos.
+
+(iv) Solicitar a la IAP la información de especificación técnica 
+para brindar sus servicios mediante el Formulario Ficha de 
+Levantamiento de Información Técnica.
+
+(v) La IAP y el CAP deben definir la cantidad de servicios que se 
+ofrecerán en el CAP.
+
+(vi) La IAP debe definir el tiempo promedio del servicio.
+
+(vii) El Encargado de Operaciones del CAP debe calcular la 
+cantidad de turnos por día.
+
+(viii) La IAP debe definir la cantidad de representantes de servicio 
+al ciudadano.
+
+(ix) La IAP debe definir un Coordinador de la Unidad de Atención 
+al Ciudadano.
+
+Norma sobre la Prestación y Automatización de los
+
+50 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(x) La IAP debe definir un encargado de operaciones que 
+establezca contacto directo con encargado de operaciones del 
+CAP.
+
+(xi) La IAP debe definir un Soporte Técnico específico para ser 
+contactado por el área de TI de la Oficina Presidencial de 
+Tecnologías de la Información y Comunicación (OPTIC).
+
+(xii) El Director de Atención Ciudadana debe notificar al 
+Gerente Legal para iniciar la elaboración de los acuerdos 
+interinstitucionales entre la IAP y OPTIC, para ser firmados 
+antes de iniciar las operaciones.
+
+(xiii) El Director de Atención Ciudadana debe notificar al Gerente 
+de Comunicación y Relaciones Públicas para la publicación 
+en redes sociales la inclusión de la IAP en el CAP.
+
+(xiv) El Encargado de Operaciones del CAP debe coordinar las 
+pruebas piloto de las operaciones del IAP.
+
+(c) El Director de Tecnología debe realizar las siguientes actividades:
+
+(i) Elaborar el plan de capacidad tecnológica para la nueva IAP.
+
+(ii) Solicitar los recursos de tecnología de acuerdo a las necesidades 
+de la IAP.
+
+(d) El Encargado de Entrenamiento debe realizar las siguientes 
+actividades:
+
+(i) Coordinar e impartir el entrenamiento al personal asignado 
+para atención al cliente para la nueva IAP.
+
+(ii) Coordinar e impartir el entrenamiento al personal asignado 
+de las Normar Generales para los representantes del CAP.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 51
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+SECCIÓN 3.04        VENTANILLA ÚNICA
+
+A continuación se presentan las directrices que se deben tomar en 
+cuenta para aplicar la Ventanilla Única(22) :
+
+(a) Toda Ventanilla Única debe cumplir con las siguientes funciones:
+
+(i) Recepción, registro y remisión de comunicaciones previas de 
+los ciudadanos.
+
+(ii) Difundir la información y orientación sobre los trámites y 
+requisitos que exige la tramitación de cada procedimiento 
+teniendo en cuenta las exigencias de la Administración 
+Pública competente y los entes y órganos administrativos que 
+la conforman y que intervienen en el mismo.
+
+(iii) Prestar servicios integrados de gestión que permitan la 
+tramitación conjunta de procedimientos y trámites de las 
+administraciones que intervienen, en su caso y que hayan 
+suscrito el correspondiente convenio.
+
+(iv) Establecer atención virtual en su caso que permita que 
+los trámites previos se realicen por medios electrónicos 
+compatibles.
+
+(b) Para el portal integrador de ventanillas únicas de debe tomar en 
+cuenta lo siguiente:
+
+(i) Una vez establecido el portal integrador de ventanillas únicas, 
+ningún procedimiento administrativo debe incorporar nuevos 
+trámites sin previa simplificación de los existentes.
+
+a) El número de trámites administrativos no podrá 
+incrementarse sin motivación legal suficiente.
+
+(ii) Toda documentación que sea presentada a través del portal 
+integrador de ventanillas únicas o en cualquiera de sus canales de 
+servicio debe ser ordenada y archivada de forma que se garantice 
+su trazabilidad y reutilización con el criterio de búsqueda del 
+nombre y apellidos de los interesados.
+
+(22) Es un instrumento multicanal (presencial, telefónico o telemático), que permite agrupar en una 
+sola instancia todos los trámites que el ciudadano debe realizar ante la Administración Pública 
+competente y los entes y órganos administrativos que la conforman.
+
+Norma sobre la Prestación y Automatización de los
+
+52 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(iii) Los organismos y entes públicos incorporados al portal 
+integrado de ventanillas únicas deben compartir sus 
+repositorios de documentos de manera que los presentados en 
+cualquiera de sus registros sea accesible para su reutilización 
+en ulteriores procedimientos administrativos.
+
+(iv) Las ventanillas únicas deben realizar las funciones de registro 
+recibiendo las solicitudes físicamente o en la página web 
+mediante la tramitación electrónica.
+
+(c) La Presidencia de la República, a través del Ministerio de 
+Administración Pública (MAP) debe encargarse de establecer los 
+criterios esenciales de funcionamiento de las ventanillas únicas 
+y controlará, fiscalizará y tutelará que la Administración pública 
+competente implemente el servicio de ventanilla única en las 
+condiciones establecidas en esta Ley regulando los requisitos de 
+identificación y registro electrónico.
+
+(d) El Ministerio de Administración pública debe supervisar el 
+cumplimiento de las disposiciones de la Ley 107-13 en las 
+iniciativas de ventanilla única, para lo cual habrá de emitir un 
+informe vinculante sobre la adecuación de las mismas a los 
+principios y derechos del texto legal. En el caso de que no se 
+cumpla la juridicidad o la  carta de servicios, podrá indicar la 
+readecuación en el portal integrado.
+
+(e) La implantación de la ventanilla única debe desarrollarse de dos 
+formas teniendo presente las competencias propias de las distintas 
+instituciones intervinientes para garantizar el principio de lealtad 
+institucional:
+
+(i) Dentro de la Administración Pública Central de la República 
+Dominicana en la que el MAP realizará acciones de 
+coordinación entre los diferentes departamentos y organismos.
+
+(ii) En el Distrito Nacional y en los Municipios mediante 
+convenios de colaboración que serán suscritos por las distintas 
+instituciones.
+
+( f) El Ministerio de Administración Pública debe evaluar periódicamente 
+el desempeño institucional en materia de ventanilla única.
+
+(g) Cada ventanilla única debe contar con un Consejo Técnico de 
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 53
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Seguimiento y evaluación de los convenios regulados por el Título 
+Séptimo de la Ley 107-13 de Procedimiento Administrativo sobre 
+el régimen de los órganos colegiados. 
+
+(i) El Consejo Técnico de Seguimiento debe estar compuesto por 
+el Ministro o el Vice-Ministro del MAP, por los funcionarios 
+de los ministerios suscriptores del convenio y tres (3) 
+representantes que se hayan adherido al convenio, además de 
+un representante de la Federación Dominicana de Municipios 
+(FEDOMU) y un representante de la Oficina Presidencial de 
+Tecnologías de la Información y Comunicación (OPTIC).
+
+ 
+
+Norma sobre la Prestación y Automatización de los
+
+54 Servicios Públicos del Estado Dominicano.
+
+
+
+CAPÍTULO IV
+INTEROPERABILIDAD
+
+Con el fin de facilitar un intercambio seguro de información entre 
+aquellos organismos que requieran la colaboración interorganizacional 
+a la hora de brindar sus servicios, se ha elaborado este capítulo, en 
+donde se presentan las directrices que se deben seguir con el objetivo 
+de facilitar la forma en que estos ofrecen sus servicios a los ciudadanos 
+u otras entidades públicas y privadas.
+
+Para lograr una efectiva interoperabilidad entre las diferentes plataformas 
+de los organismos gubernamentales, estos deben cumplir con las 
+directrices especificadas en la Norma para la Interoperabilidad 
+entre los Organismos del Gobierno Dominicano (NORTIC 
+A4:2014), la cual trata este tema de manera detallada. Dicha norma 
+se tomó como referencia para las directrices presentadas más adelantes, 
+lo que permitirá el cumplimiento de la interoperabilidad en sus tres (3) 
+dimensiones principales. 
+
+SECCIÓN 4.01       USO DEL CATÁLOGO
+
+(a) Todo nuevo servicio de tipo electrónico que desarrolle un organismo 
+gubernamental, debe estar alineado a los estándares especificados 
+y permitidos en la sección 4.04 sobre interoperabilidad técnica.
+
+ 
+(b) Debe seleccionarse del catálogo aquellos estándares que se ajusten 
+
+a las necesidades o funcionalidades que se implantará.
+
+(c) En caso de utilizar un estándar que no se encuentre especificado 
+en el catálogo debe enviarse la justificación de su uso al correo 
+electrónico enat@optic.gob.do para fines de evaluación del 
+requerimiento.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 55
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(d) Cada organismo gubernamental que funcione como cliente 
+o consumidor de un servicio electrónico brindado por otro 
+organismo que este normalizado bajo la NORTIC A4:2014, 
+debe seguir los estándares seleccionados por el organismo emisor 
+del servicio o del documento electrónico en cuestión. 
+
+(e) Los estándares y tecnologías definidos en el segmento de 
+integración de aplicaciones y servicios deben ser los utilizados en 
+cualquier sistema o programación que intervenga en la integración 
+de aplicaciones y/o servicios.
+
+SECCIÓN 4.02    INTEROPERABILIDAD ORGANIZACIONAL
+ 
+
+(a) Para lograr interoperabilidad organizacional, los organismos deben 
+realizar acuerdos, los cuales pueden ser intraorganizacionales o 
+interorganizacional.
+
+(i) Los acuerdos definidos deben ser los siguientes:
+• Acuerdos técnicos.
+• Acuerdos semánticos.
+• Acuerdos organizacionales.
+• Acuerdos legales.
+• Acuerdos económicos.
+• Acuerdos culturales.
+
+(b) Para la asignación de roles en el área de administración de 
+proyectos de TIC, cada organismo debe cumplir con las siguientes 
+directrices:
+
+(i) La unidad de TIC debe asignar responsabilidades individuales 
+al personal dentro de dicha unidad, los cuales serán participes 
+en todos los proyectos que refieran a la interoperabilidad entre 
+sistemas de información. 
+
+( ii) La gestión del departamento de TIC debe tener estructurada la 
+unidad de administración de proyectos de TIC o bien, el organismo 
+debe disponer de una unidad para la gestión de proyectos con un 
+personal capacitado para administrar este tipo de proyectos.
+
+Norma sobre la Prestación y Automatización de los
+
+56 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(iii) El área de administración de proyectos de TIC debe tener el 
+personal adecuado para cumplir con las responsabilidades 
+especificadas en la NORTIC A1:2014, sub-sección 2.01.1. 
+Estructura organizacional, así también con los roles 
+específicos para la gestión de proyectos de interoperabilidad 
+establecidos en la NORTIC A4:2014, sección 3.02. Roles 
+para el área de administración de proyectos TIC.
+
+(c) Para la gestión de procesos intraorganizacionales los organismos 
+deben seguir las siguientes directrices:
+
+(i) Realizar estrategias tecnológicas para mejorar el desempeño 
+de las actividades que estos realizan, buscando así la mejor 
+satisfacción de sus clientes finales, sean estos ciudadanos o 
+empresas que trabajan en conjunto con el Estado Dominicano.
+
+
+(ii) Confirmar la correcta constitución de los roles para el área de 
+
+administración de proyectos de TIC.
+
+(iii) Crear acuerdos culturales que comprometan al organismo al 
+
+logro de la interoperabilidad.
+
+(iv) Seguir el proceso establecido en la NORTIC A1:2014, sección 
+
+3.01 sobre planificación de proyectos de TIC, tomando 
+en cuenta los aspectos para proyectos de interoperabilidad 
+mencionados en la NORTIC A4:2014, sección 3.03 sobre 
+gestión de procesos intraorganizacionales. 
+
+
+(d) Para la gestión de procesos interorganizacionales los organismos 
+
+deben seguir las siguientes directrices:
+
+(i) Al momento de iniciar un proyecto sobre interoperabilidad 
+
+interorganizacional, dicho proyecto debe ser definido, por 
+los organismos, como una iniciativa individual o iniciativa 
+común.
+
+a) Para la gestión de procesos de iniciativas individuales 
+deben seguirse los siguientes pasos:
+
+i) El organismo propietario de la iniciativa, debe cumplir 
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 57
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+con las exigencias tecnológicas realizadas por el o los 
+organismos de interés, siempre que estos cumplan con 
+estándares interoperables. En caso contrario, ambos 
+organismos deberán iniciar un proceso de negociación 
+para la definición de las responsabilidades y 
+compromisos acordados, e incluir el resultado de dicha 
+negociación en un acuerdo legal entre los organismos 
+involucrados.
+
+ii) Los organismos involucrados deben realizar en conjunto 
+el proyecto, siguiendo la directriz 4.02.c.iv.
+
+iii) Los líderes de proyectos de las áreas de proyectos de TIC 
+de los organismos involucrados, deben permanecer en 
+constante contacto, a fin de garantizar el cumplimiento 
+de los tiempos establecidos, y realizar las minutas 
+correspondientes a cada reunión.
+
+iv) Los organismos involucrados deben establecer tiempos de 
+respuesta para todas las solicitudes  requeridas entre ellos, 
+de manera que se pueda mantener el control del plan de 
+proyecto establecido.
+
+v) Los organismos involucrados deben establecer tiempos 
+para el envío de reportes sobre el estatus del proyecto, por 
+vía de correo electrónico o cualquier otro medio que los 
+organismos consideren pertinentes. 
+
+b) Para la gestión de procesos de iniciativas comunes, deben 
+seguirse los siguientes pasos para el seguimiento correcto de 
+los proyectos:
+
+i) Los líderes de proyectos de las unidades de administración 
+de proyectos de los organismos involucrados deben 
+establecer una reunión inicial para definir las necesidades 
+de cada organismo. Y realizar las minutas correspondientes 
+a cada reunión.
+
+ii) Debe definirse y documentarse, en un acuerdo legal, las 
+responsabilidades y compromisos que deba asumir cada 
+organismo.
+
+iii) Los organismos involucrados deben realizar en conjunto 
+
+Norma sobre la Prestación y Automatización de los
+
+58 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+el proyecto, siguiendo la directriz 4.02.c.iv.
+
+iv) Los organismos involucrados deben establecer tiempos de 
+respuesta para todas las solicitudes requeridas entre ellos, 
+de manera que se pueda mantener en control del plan de 
+proyecto.
+
+v) Los organismos involucrados deben establecer tiempos 
+para el envío de reportes sobre el estatus del proyecto, por 
+vía de correo electrónico o cualquier otro medio que los 
+organismos consideren pertinentes.
+
+SECCIÓN 4.03    INTEROPERABILIDAD SEMÁNTICA
+
+La interoperabilidad semántica es esencial para que diferentes sistemas 
+de información en distintos organismos puedan comunicarse y 
+entender la información de manera correcta. Por lo que, a continuación 
+se presentan las directrices que los organismo deben seguir a fin de 
+cumplir con esta dimensión de la interoperabilidad.
+
+(a) Para la visualización de la información los organismos deben 
+cumplir con las siguientes directrices:
+
+(i) Identificar el formato de presentación de la información para 
+el intercambio de la misma, según su contexto.
+
+(ii) Disponerse la información para visualizarse en distintos 
+dispositivos, ya sean móviles como de escritorio, tomando en 
+cuenta la resolución de pantalla para los diferentes dispositivos.
+
+(b) Para lograr el procesamiento automático de la información, 
+los organismos deben seguir las directrices especificadas a 
+continuación con referencia a la utilización de metadatos:
+
+(i) La información intercambiada debe estar descrita en función 
+de metadatos.
+
+(ii) La estructura de los metadatos para los elementos y atributos 
+debe cumplir con lineamientos de expresividad, sencillez, 
+singularidad, precisión.
+
+
+(iii) La estructura de los metadatos debe definirse mediante el Vocabulario 
+
+para Catálogo de Datos (DCAT, por sus siglas en inglés).
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 59
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(iv) Debe utilizarse el Formato de Transformación Unicode de 8 
+bit (UTF-8, por sus siglas en inglés), para la codificación de 
+caracteres a usar para cada atributo.
+
+(v) Debe seguirse el siguiente esquema de metadatos propuestos 
+para la descripción de los elementos de datos:
+
+a) Los metadatos requeridos son los siguientes:
+
+Tabla 1. Metadatos
+
+Metadato Descripción
+
+Metadatos requeridos
+
+Nombre Define el nombre asignado para 
+identificar coherentemente al atributo.
+
+Especifica la fecha de un evento del 
+atributo. Debe especificarse siguiendo 
+
+Fecha el estándar ISO 8601 - Elementos de datos 
+
+y formatos intercambiables — Intercambio 
+
+de información — Representación de fechas 
+
+y horas.
+
+Descripción Explica de forma breve  sobre qué trata 
+el contenido del atributo.
+
+Organismo Donde se especifica el organismo 
+responsable de la creación del atributo.
+
+Formato Donde se describe la forma o restricciones 
+de representación y contenido.
+
+Donde se identifican los valores que 
+Valores permitidos puede asumir o tener un atributo, o en 
+
+un dominio y rango respectivo.
+
+Clave univoca que permite al usuario 
+Identificador una forma fácil para colocar un nombre 
+
+técnico resumido que identifique la 
+naturaleza del metadato.
+
+Norma sobre la Prestación y Automatización de los
+
+60 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+En donde se especifica la etapa actual 
+del elemento de datos. Este puede ser: 
+
+Estado • En definición
+• En desarrollo
+• Disponible
+• Obsoleto
+
+Tipo Indica la naturaleza de datos que se van 
+a procesar.
+
+Versión En donde se presenta el número de 
+versión actual.
+
+En donde se definen nombres 
+Alias alternativos por los cuales se le puede 
+
+conocer al atributo.
+
+Validación En donde se especifican las reglas que 
+deben ser aplicadas en la construcción. 
+
+Metadatos requeridos solo cuando aplique su uso
+En donde se especifica información 
+
+Accesibilidad sobre los niveles de acceso definidos al 
+atributo.
+
+Público En done se especifica el tipo de usuario 
+a los cuales se dirige el atributo.
+
+En donde se especifica los organismos 
+Colaborador que colaboran con el contenido del 
+
+atributo.
+
+Relación En donde se especifica la relaciones con 
+otros elementos de datos.
+
+Metadatos no requeridos. El organismo tiene la posibilidad de utilizarlos.
+
+Ubicación En donde se especifica la ubicación 
+física del atributo.
+
+Idioma En donde se especifica el idioma del 
+contenido interno del atributo.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 61
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+SECCIÓN 4.04    INTEROPERABILIDAD  TÉCNICA
+
+( a) Todos los estándares utilizados por los organismos deben ser abiertos 
+y cumplir con cualidades como la disponibilidad, capacidad de 
+elección, sin prebendas, sin discriminación y extensión o reducción.
+
+(b) Los estándares interoperables a seleccionar para los nuevos 
+servicios de tipo electrónicos se especifican en la siguiente tabla 
+sobre catálogo de estándares interoperables:
+
+Norma sobre la Prestación y Automatización de los
+
+62 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+  Tabla 1. Catálogo de estándares interoperables 
+Nombre
+
+Segmentos de nima 
+interoperabilidad Categoría Tipo Versión mí
+
+aceptada Extensión Estado
+Común Formal
+
+.xml
+XAdES XML Advanced sig
+
+Electronic Signatures Abierto 1.2.2 .d
+.xsig Estable
+
+Autenticación 
+– Firma 
+
+electrónica .xml
+XML-DSig XML Signature Syntax 
+
+and Processing Abierto Segunda edición .dsig
+2008 .xsig Estable
+
+.sig
+
+ETSI TR 102 272 
+Autenticación Electronic Signatures 
+
+– Política Firma ETSI TR 102 272 and Infrastructures Abierto RFC 3125 1.1.1 N/A Estable
+electrónica (ESI); ASN. 1 format for 
+
+signature policies
+
+SSH Secure Shell Abierto 1.99 (SSH 2) N/A Estable
+
+RFC 5878
+Cifrado RFC 5746
+
+RFC 5705
+TLS Transport Layer Security RFC 5489
+
+(TLS) Abierto RFC 5487 N/A Estable
+RFC 5469
+RFC 5289
+RFC 5288
+
+Base16, Base32 y The Base16, Base32 and 
+Base64 Base64 Data Encodings Abierto RFC 4648 N/A Estable
+
+Codificación – 
+Codificación de ISO/IEC 10646:2003
+
+caracteres UCS Information 
+UTF-8 technology –Universal Abierto 2003 Estable
+
+multiple – Octet Coded 
+Character Set
+
+RFC 4646 –Tags for 
+Identifying Languages.
+
+Codificación - RFC 4646
+Idioma ISO 639 ISO 639 – Codes for Abierto 2002 – 2008 RFC 
+
+e Representation of 4646 N/A Estable
+th
+Names of Languages
+
+graphic Markup 
+Formatos de GML Geo
+
+Languages Abierto 2007 .gml Estable
+archivos – 
+
+Cartografía 
+vectorial y SIG
+
+WFS Web Feature Service Abierto 2010 .gml Estable
+Accesibilidad
+y seguridad
+
+GZIP GNU ZIP Abierto RFC 1952 .gz Estable
+
+.rar
+RAR Roshal Archive Propietario 1.5 .rev
+
+.r0x Estable
+Formatos 
+archivos– 
+
+Compresión de 
+archivos ZIP ZIP RFC 1952 Abierto N/A .zip Estable
+
+7ZIP 7ZIP Abierto 9.0 .7zip Estable
+
+CSV Comma Separated .csv
+Values Abierto RFC 4180 .txt Estable
+
+HTML HyperText Markup html
+Language Abierto 4.0.1 .htm Estable
+
+CSS Cascading Style Sheets Abierto 2.1 .css Estable
+
+ISO/IEC 10918- .jpg
+JPEG / JPG Join Photographic 
+
+Experts Group Abierto 4:1999, T.86 .jpeg Estable
+(06/98)
+
+.odt
+
+.ods
+ODF Open Document 
+
+Format Abierto 1.0 .odp Estable
+Formatos .odg
+
+archivos– Imagen 
+y/o texto
+
+.docx
+Strict Open XML Strict Open eXtensible x
+
+Markup Languaje Abierto 2012 .xls
+.pptx Estable
+
+PDF Portable Document 
+Format Abierto 1.4 .pdf Estable
+
+PNG Portable Network ISO/IEC 15948,[1] 
+Graphics Abierto IETF RFC 2083 .png Estable
+
+Scalable 
+SVG Vector Graphics Abierto 1.1 .svg Estable
+
+TIFF Tag Image File Format Abierto 2004 .tiff Estable
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 63
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+.tsv
+TSV Tab-separated Values Abierto N/A .tab Estable
+
+TXT Texto Plano Abierto N/A .txt Estable
+
+XHTML eXtensible HyperText .html
+Markup Language Abierto 1.0 .htm Estable
+
+RFC 4634
+Integridad SHA Secure Hash Algorithms Abierto RFC3874 N/A Estable
+
+Control de 
+acceso LDAP Lightweigth Directory 
+
+Access Protocol. Abierto RFC 4510 N/A Estable
+
+age Access 
+Protocolos de IMAP Internet Mess
+
+Protocol Abierto 4.0 N/A Estable
+comunicación 
+e intercambio 
+
+– Correo 
+electrónico POP3 Post Office Protocol 
+
+versión 3 Abierto 3.0 N/A Estable
+
+SMTP Simple Mail Transfer 
+Protocol Abierto RFC 5321 N/A Estable
+
+AtomPub Atom Publishing .atompub
+Protocol Abierto N/A .xml Estable
+
+CDN Content Delivery 
+Network Abierto N/A N/A Estable
+
+DNS Domain Name System Abierto RFC 1035 N/A Estable
+
+Infraestructura y FTP File Transfer Protocol Abierto RFC 2428 N/A Estable
+conectividad
+
+FTPS File Transfer Protocol 
+Secured Abierto RFC 4217 N/A Estable
+
+Protocolos de 
+comunicación FTP over SSH File Transfer Protocol 
+
+over Secure Shell Abierto N/A N/A Estable
+e intercambio – 
+Tecnologías de 
+transporte y red 1
+
+HTTP HyperText Transfer 1.
+Protocol Abierto RFC 2616 N/A Estable
+
+RFC 2817
+
+ICAP Internet Content 
+Adaptation Protocol Abierto RFC 3238 N/A Estable
+
+RFC 2401
+IPSec Security Architecture for FC 4302
+
+the Internet Protocol Abierto R
+RFC 4835 N/A Estable
+
+NTP Network Time Protocol Abierto RFC 5905 N/A Estable
+
+SFTP SSH File Transfer 
+Protocol Abierto 2.0 N/A Estable
+
+Autenticación - 
+Certificados OCSP Online Certificate 
+
+Status Protocol Abierto RFC 2560 N/A Estable
+
+SOAP Simple Object Access 
+Protocol Abierto 1.1 N/A Estable
+
+Universal Discovery, 
+Protocolos de UDDI Description and Abierto 3.0 N/A Estable
+comunicación Integration
+
+e intercambio – 
+Servicios Web
+
+WSDL Web Services Definition 
+Languages Abierto 1.1 N/A Estable
+
+WS-Security Web Services Security Abierto 1.1 N/A Estable
+Integración de 
+aplicaciones y 
+
+servicios
+ASN.1 Abstract Syntax 
+
+Notation One Abierto 2008 N/A Estable
+
+86
+URI Uniform Resource RFC 39
+
+Identifier Abierto RFC 5785 N/A Estable
+Tecnologías para 
+
+identificación
+
+URL Uniform Resource 
+Locators Abierto RFC 1738 N/A Estable
+
+URN Uniform Resouce 
+Names Abierto N/A N/A Estable
+
+Semántica DCAT Data Catalog 
+Vocabulary Abierto N/A N/A Estable
+
+Norma sobre la Prestación y Automatización de los
+
+64 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Data elements and 
+interchange formats – 
+
+ISO 8601 Information interchange Abierto N/A N/A Estable
+– Representation of 
+
+dates and times
+
+Semántica - 
+Metadatos Model Requirements 
+
+MoReq for the management of Abierto N/A N/A Estable
+electronic records
+
+PREservation Metada: 
+PREMIS Implementation Propietario N/A N/A Estable
+
+Strategies V2.1
+
+N3 Notation 3 Abierto N/A .n3 Estable
+
+Semántica – RDF Resource Description 
+Tecnologías Framework Abierto 1.0 N/A Estable
+semánticas
+
+Resource Description 
+RDFa Framework – in - Abierto 2008 N/A Estable
+
+attributes
+
+Integración de 
+datos ATOM Atom Syndication atom
+
+Format Abierto 1.0 .xml Estable
+
+JSON JavaScript Object 9 and .json
+Notation Abierto RFC 715
+
+ECMA-404 .jsonp Estable
+
+JavaScript Object .json
+JSON-RPC Notation – Remote Abierto 1.0 .jsonp Estable
+
+Procedure Call
+Tecnologías de 
+integración de 
+
+datos .odata
+ODATA Open Data Protocol Abierto 2.0 .xml Estable
+
+.rss
+RSS Really Simple 
+
+Syndication Abierto 2.0 .xml Estable
+
+XML Extensible Markup 
+Language Abierto 1.0 .xml Estable
+
+XSD XML Schema Abierto 1.0 .xsd Estable
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 65
+
+
+
+
+
+
+CAPÍTULO V
+ AUTOMATIZACIÓN DE LOS SERVICIOS
+En este capítulo se establecen las directrices necesarias para aumentar 
+la eficiencia de los servicios y la reducción de costos en los procesos 
+operativos de los organismos del Estado Dominicano, así como 
+también la implementación de sistemas de gestión para lograr una total 
+automatización e integración de los procesos del organismo.
+
+SECCIÓN 5.01 DOCUMENTOS ELECTRONICOS Y 
+FIRMAS DIGITALES
+
+Los documentos y firmas digitales están regulados por la Ley No. 126-02 
+de Comercio Electrónico, Documentos y Firmas Digitales, promulgada 
+en fecha 4 de Septiembre del 2002.
+
+Esta Ley no aplica en los siguientes casos:
+
+• En las obligaciones contraídas por el “Estado Dominicano” 
+en virtud de convenios o tratados internacionales, en las 
+advertencias escritas que, por disposiciones legales, deban 
+ir necesariamente impresas en ciertos tipos de productos 
+en razón al riesgo que implica su comercialización, uso o 
+consumo.
+
+(a) Toda interacción con una entidad pública que requiera un 
+documento digital o mensajes de datos deben contener una firma 
+digital, conforme a los requerimientos contenidos en la Ley y las 
+normas complementarias.
+
+(b) Los documentos digitales y mensajes de datos deben conservar su 
+integridad a partir del documento original generado.
+
+
+
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 67
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Sub-Sección 5.01.1           Firmas digitales
+(a) Las firmas digitales deben contener los siguientes atributos para 
+
+tener reconocimiento jurídico:
+
+
+• Susceptible a ser verificada y estar bajo el control exclusivo de 
+la persona que la usa.
+
+• La información estará ligada a un documento digital o mensaje 
+de tal manera que si estos datos son cambiados, la firma digital 
+pierde validez.
+
+• Cumplir con la reglamentación adoptadas por el Poder 
+Ejecutivo.
+
+(c) Las firmas digitales deben estar abaladas por las entidades 
+certificadoras acreditadas ante los órganos competentes.
+
+(d) Las entidades certificadoras deben ofrecer al organismo:
+• Certificados de firmas digitales a personas naturales o jurídicas.
+
+• Ofrecer o facilitar los servicios de registro y estampado 
+cronológico de la transmisión y recepción de mensajes 
+de datos, así como cumplir otras funciones relativas a las 
+comunicaciones basadas en las firmas digitales.
+
+(e) Toda entidad certificadora de firmas electrónicas debe estar 
+autorizada por el Instituto Dominicano de las Telecomunicaciones 
+(INDOTEL).
+
+(f) Los certificados emitidos por las entidades certificadoras deben 
+cumplir con los siguientes requisitos:
+
+• Firma digital.
+• La clave pública del usuario.
+
+• El número de serie del certificado.
+• Fecha de emisión y expiración del certificado.
+
+• Nombre, dirección y domicilio del suscriptor.
+
+• Identificación del suscriptor nombrado en el certificado.
+
+• El nombre, dirección y el lugar donde realiza actividades dicha 
+entidad certificadora.
+
+• La metodología para verificar la firma digital del suscriptor.
+
+(g) El organismo debe obtener el dispositivo de captura de firmas 
+digitales.
+
+Norma sobre la Prestación y Automatización de los
+
+68 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+SECCIÓN 5.02       PAGO ELECTRÓNICO 
+
+(h) El organismo debe contar con siguientes pautas de seguridad a la 
+hora de ofrecerle al ciudadano la facilidad de realizar sus pagos vía 
+internet:
+
+(i) La dirección electrónica de la página web debe empezar con el 
+protocolo “HTTPS://”.
+
+(ii) La página web del organismo debe contener un icono en 
+forma de candado, en la barra de navegación de dicha página.
+(i) El organismo debe mostrar al ciudadano las políticas del 
+
+organismo antes de realizar cualquier transacción  de 
+compra o pago electrónico.
+
+(i) El organismo debe verificar cualquier cambio de políticas de 
+dicho organismo.
+
+(j) El organismo debe realizar sus cobros con tarjetas de crédito, 
+dado a que esto  le permite al usuario disputar una compra 
+o pago ilícito y suspender sus transacciones durante una 
+investigación.
+
+(k) El organismo no debe permitir transacciones de los usuarios 
+con tarjetas de débito o cheque, dado a que esta puede ser 
+vulnerable a cualquier fraude bancario.
+
+(l) Todo organismo que ofrezca productos o servicios en línea 
+no debe rebelar el número de tarjeta de crédito de ningún 
+consumidor o cualquier otra información sensible al 
+ciudadano a un tercero para fines comerciales.
+
+(m) Todo organismo que ofrezca productos y servicios en línea, 
+debe ofrecer las siguientes informaciones al ciudadano a la 
+hora de realizar cualquier transacción de pago:
+(i) Debe visualizarse claramente los términos de la transacción 
+
+antes de obtener la información de pago del ciudadano.
+(ii) El ciudadano debe tener conocimiento por parte del 
+
+organismo sobre cualquier cargo adicional a la cuenta del 
+mismo antes de realizar la transacción.
+
+(iii) Debe proveérsele al usuario de manera sencilla y rápida 
+la forma de cancelar la transacción de cargos recurrentes.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 69
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(n) El organismo no debe permitirle al ciudadano realizar sus pagos 
+vía transferencias bancarias, dado que el destino de la transferencia 
+puede ser un estafador, ya que se dificulta rastrear la procedencia 
+del mismo en dichos casos.
+
+(o) El organismo no debe solicitarle ninguna información que se 
+considere inapropiada, solo informaciones  clasificadas como 
+obligatorias, estas deben identificarse con un símbolo de (*).
+
+(p) El organismo no debe solicitar la actualización de informaciones 
+sensitivas vía correo electrónico.
+
+(q) Todo organismo debe ofrecer al ciudadano una copia de la 
+transacción que realizo vía web, para posibles reclamos o 
+devoluciones.
+
+(r) El organismo debe informar al ciudadano sobre los procesos de 
+entrega de cualquier producto y el mismo contener las siguientes 
+informaciones:
+
+• Restricciones del organismo gubernamental para entregar el 
+producto o servicio, como limitaciones geográficas o de algún 
+otro tipo.
+
+• Opciones de entrega.
+• Si existe algún tipo de seguro, en caso de pérdida o desperfecto 
+
+del producto.
+• Costos de entrega o envío.
+
+(s) Todo organismo debe informar al ciudadano las políticas de 
+cancelación o reembolso de un producto o servicio y el mismo 
+debe cumplir con las siguientes pautas:
+
+• Tiempo límite para cancelar o devolver el producto o servicio.
+
+• Existe alguna multa por cancelación o devolución.
+
+• En caso de devolución, como recibirá el reembolso y cuál es el 
+tiempo límite para usarlo en caso de que sea una nota de crédito.
+
+• Existe algún contacto para reportar inconformidades con el 
+producto o servicio.
+
+• En caso de existir una garantía del producto, debe verificarse los 
+límites y bajo cuáles circunstancia se podrán ejercer.
+
+Norma sobre la Prestación y Automatización de los
+
+70 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Para obtener mayor conocimiento sobre como correr un proceso 
+transaccional favor visualizar el anexo A. sobre flujo de trabajo de 
+un servicio transaccional.
+
+SECCIÓN 5.03       RECOMENDACIONES
+
+• El organismo debe recomendar al ciudadano realizar sus 
+transacciones vía internet con una sola tarjeta de crédito, para que 
+el este pueda rastrear fácilmente cualquier transacción ilícita.
+
+• El organismo debe solicitar la menos cantidad de información 
+posible, dado que algunos proveedores solicitan más información 
+de lo normal.
+
+SECCIÓN 5.04        SISTEMA DE GESTIÓN DE RELACIONES 
+CON EL CLIENTE
+
+(a) El organismo debe contar con un sistema para administrar la 
+relación con los ciudadanos (CRM, por sus siglas en inglés).
+
+(b) El CRM debe estar centrado únicamente en estrategias basadas en 
+los clientes.
+
+(c) CRM debe identificar y administrar las relaciones de las cuentas, 
+preferiblemente las más valiosas para el organismo.
+
+(d) El CRM debe contar con las siguientes funcionalidades:
+
+• Ventas y  administración.
+• Telemarketing.
+• Administración del tiempo.
+• Servicios y soporte al ciudadano.
+• Marketing.
+• Manejo de la información para directivos.
+• Integración del Sistema de Planificación de Recursos 
+
+Empresariales (ERP, por sus siglas en inglés).
+• Sincronización de los datos.
+• Importar clientes a otras plataformas como Excel.
+
+• Gestión de cuentas.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 71
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+• Gestión documentación.
+• Soporte a clientes.
+• Informes de tiempos en casos.
+• Control de prioridades en casos y actividades.
+• Registros de casos de soporte.
+• Clasificación de clientes.
+• Gestión de recursos.
+• Facturación.
+• Manejo de indicadores y objetivos.
+
+(e) El CRM debe estar dedicado estratégicamente para adquirir y 
+mantener la lealtad del cliente.
+
+(f) La alta gerencia del organismo debe ejecutar e identificar los 
+siguientes procesos como mejor practica para la inclusión del 
+CRM:
+
+• Identificar los procesos  que van hacer automatizados, 
+teniendo en cuenta que solo debe ser automatizado el proceso 
+que se necesitan y no en todos.
+
+• Crear un ambiente de compromiso de toda la gerencia del 
+organismo.
+
+• Capacitación a los usuarios.
+
+• Crear motivaciones al personal que utilizara dicho sistema.
+
+• Crear un comité administrativo de la plataforma, para dudas 
+o sugerencias del cliente.
+
+(g) La información introducida al CRM debe ser integra.
+ 
+SECCIÓN 5.05                  SISTEMA DE PLANIFICACIÓN DE 
+
+RECURSOS EMPRESARIALES
+
+(a)   El organismo debe contar con un ERP.
+
+(b)  La base de datos de los módulos debe ser única y centralizada.
+
+(c)  Los módulos integrados al sistema deben estar alineados a las   
+ necesidades del organismo.
+
+Norma sobre la Prestación y Automatización de los
+
+72 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+(d)  El ERP debe permitir la interacción entre los distintos módulos  
+  del sistema.
+
+(e)  El ERP debe ser configurable, adaptado a las necesidades     
+  especifica del organismo.
+
+(f)  El ERP debe coordinar y unificar las diferentes áreas de un     
+organismo, facilitando así la toma de decisiones de la alta gerencia.
+
+(g)  El ERP debe permitirle al usuario acceder de manera rápida y  
+ sencilla a las informaciones de las operaciones y finanzas de un   
+ organismo.
+
+(h)  El ERP debe permitirle al usuario acceder de manera rápida y  
+  sencilla a las informaciones de las operaciones y finanzas de un  
+  organismo.
+
+(i)  Las informaciones contenidas en el ERP deben estar actualizadas. 
+
+(j)   El ERP debe estar compuesto de la siguiente manera:
+
+• Hardware.
+
+• Software.
+
+• Base de datos.
+
+• Telecomunicaciones.
+
+• Procedimientos.
+
+• Recursos humanos.
+
+(k)  Los principales proveedores de software CRM son los siguientes:
+
+
+• SAP
+
+• PeopleSoft
+
+• Oracle
+
+• Baan
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 73
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+GLOSARIO DE TÉRMINOS
+
+7ZIP
+Es un formato libre de almacenamiento y compresión de datos.
+
+Acuerdos de Niveles de Servicios
+Es un documento que plasma los acuerdos entre un proveedor de 
+servicio y el  cliente, en donde se estipulan los requisitos y parámetros 
+que el proveedor se compromete a cumplir para mantener unos niveles 
+de calidad de servicio.
+
+Algoritmo Hash Seguro (SHA)
+Conjunto ordenado y finito de operaciones que permite encontrar la 
+solución de un problema.
+
+Base 16 
+Es un sistema de codificación estándar en el cual se emplean tanto 
+letras mayúsculas como minúsculas y números para la representación de 
+valores, pero esta codificación no tiene que ser humanamente legible.
+
+Base 32 
+Es un sistema de codificación que está diseñado para representar 
+secuencias arbitrarias de octetos en una forma que tiene que ser sensible 
+a mayúsculas, pero esta codificación no tiene que ser humanamente 
+legible.
+
+Base 64
+Es un sistema de codificación que está diseñado para representar 
+secuencias arbitrarias de octetos en una forma que se requiera de 
+mayúsculas y minúsculas, pero esta codificación no tiene por qué ser 
+humanamente legible.
+
+Base de Datos
+Es un conjunto de datos almacenados de manera ordenada y que 
+guardan relación entre ellos para su uso posterior.
+
+Catálogo de Datos
+Es un estándar definido por el Consorcio World Wide Web (W3C) 
+y diseñado para facilitar la interoperabilidad entre catálogos de datos 
+publicados en la Web.
+
+Norma sobre la Prestación y Automatización de los
+
+74 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Catálogo de Servicio
+Es un listado de todos los servicios activos de un organismo. Este 
+catálogo contiene todas las informaciones necesarias para el cliente 
+sobre dichos servicios.
+
+Certificado Digital
+Es un fichero generado por un organismo certificador de firmas digitales, 
+que le permite a un organismo o empresa confirmar la identidad de una 
+persona física en internet, en el caso de la republica dominicana dicha 
+entidad debe estar avalada por (INDOTEL).
+
+Conjunto de Caracteres Universal (UCS)
+Conjunto de caracteres universal, es un sistema de codificación de 
+caracteres, el cual permite la conversión sin pérdida, de prácticamente 
+cualquier lenguaje, ya que este contiene los caracteres necesarios de 
+todos los lenguajes conocidos.
+
+Correo Electrónico
+Es un servicio de mensajería en red que permite el intercambio de 
+mensajes, a través de sistemas de comunicación electrónicos.
+
+Descripción, Descubrimiento e Integración (UDDI) 
+Es una especificación que define un método estándar para empresas 
+para descubrir e invocar servicios Web.
+
+Firma Digital
+Es un mecanismo criptográfico que permite al receptor autenticar el 
+mensaje recibido por el emisor, confirmando así la integridad de la 
+información.
+
+Firma Electrónica Avanzada XML (XAdES)
+Establece un grupo extensiones para firmas electrónicas, las cuales van 
+acorde a las pautas de firmas XML.
+
+Firma XML (XML-DSig)
+Es una definición recomendada por la W3C de la sintaxis XML para la 
+firma digital.
+
+Formato de Archivo de Imagen Etiquetado (TIFF)
+Es un formato utilizado mayormente para el almacenamiento de 
+imágenes, que permite una compresión sin pérdida de la calidad con 
+una profundidad de color de 16 bits.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 75
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Formato de Documento Abierto (ODF)
+Es un formato de documento abierto para aplicaciones de ofimática.
+
+Formato de Documento Portátil (PDF)
+Es un formato de almacenamiento de datos que funciona y puede ser 
+visualizado independientemente de la plataforma, siendo así portátil y 
+multiplataforma para su visualización.
+
+Formato de Transformación Unicode de 8-bit (UTF-8)
+Es un formato estándar de codificación de caracteres capaz de 
+representar cualquier carácter. Por sus características es recomendado 
+para ser utilizado en la codificación de correos electrónicos y páginas 
+web.
+
+Globos de ayuda
+Son elementos que brindan información relevante de ayuda al usuario 
+sobre un contenido, interfaz o aplicación en específico.
+
+GNU ZIP (gzip)
+Es un formato de compresión libre con licencia GNU, el cual solo 
+comprime los datos, pero no los conserva.
+
+Gráficos Vectoriales Redimensionables (SVG)
+Es un formato para presentar gráficos vectoriales bidimensionales 
+estáticos o animados.
+
+Hardware
+Se refiere a todas las partes físicas o tangibles de un sistema de 
+información.
+
+Hoja de estilo
+Son archivos con códigos en cascada que le indican al portal web cómo 
+debe verse en sentidos gráficos y visuales.
+
+Hoja de estilo en Cascada (CSS)
+Es un lenguaje de programación para la web destinado a  dar estilo 
+visual.
+
+Identificador Uniforme de Recursos (URI)
+Es una dirección exacta y precisa que permite ubicar un recurso en el 
+internet o en una red de cómputos.
+
+Norma sobre la Prestación y Automatización de los
+
+76 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Internet
+Es una red mundial que conecta computadoras de todos los lugares del 
+mundo para que los usuarios puedan interactuar entre sí sin importar 
+el lugar.
+
+Interoperabilidad
+Es la capacidad que tiene un sistema de información para intercambiar 
+datos con otros sistemas con la capacidad de procesarlos.
+
+Intérprete de Órdenes Segura (SSH)
+Es un protocolo y aplicación por el cual se accede remotamente a una 
+computadora a través de una red de comunicación.
+
+ISO 639
+Es un estándar para establecer nombres de dos (2) letras para identificar 
+idiomas mundiales.
+
+Lenguaje de Descripción de Servicio Web (WSDL)
+Es un protocolo basado en XML que se utiliza para describir servicios 
+web.
+
+Lenguaje de Marcas Extensible (XML)
+Es un lenguaje desarrollado por el Consorcio World Wide Web (W3C) 
+para almacenar datos en forma legible. Este es utilizado para el 
+intercambio de información entre diferentes plataformas.
+
+Lenguaje de Marcado Geográfico (GML)
+Es un lenguaje de marcado geográfico abierto para modelar información 
+geográfica.
+
+Lenguaje de Marcas de Hipertexto (HTML)
+Es el lenguaje de programación utilizado para la creación de páginas 
+web.
+
+Lenguaje de Marcas de Hipertexto Extensible (XHTML)
+Es el lenguaje estándar de elaboración de páginas web. Este es más 
+estricto a nivel técnico que el HTML y permite la detección de errores 
+más fácil.
+
+Localizador de Recursos Uniforme (URL)
+Se utiliza para especificar la dirección exacta de un recurso dentro del 
+portal web.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 77
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Marco de Descripción de Recursos (RDF)
+Es un modelo estándar del Consorcio World Wide Web (W3C), diseñado 
+para almacenar datos en forma legible e intercambio de datos en la web.
+
+Marco de Descripción de Recursos en Atributos (RDFa)
+Es una técnica que permite proporcionar un conjunto de atributos de 
+marcas para aumentar la información visual en la Web.
+Medios web
+Para fines de esta norma, se utiliza este término para agrupar los portales 
+web, la versión móvil del mismo, el sub-portal de transparencia y todos 
+aquellos sitios web desarrollados por un organismo.
+Metadatos
+Son un conjunto de información que describe las características de otra 
+información. Es “datos sobre datos”.
+
+Metadatos de Preservación: Estrategias de Implementación (PREMIS)
+Es un grupo de trabajo compuesto por expertos internacionales en la 
+utilización de metadatos aplicados a actividades de preservación digital.
+Modelo de Requisitos para la Gestión de Documentos Electrónicos y 
+Registros (MoReq)
+Es una especificación de la gestión de documentos electrónicos 
+publicados por el Foro DLM que describe los requisitos modulares para 
+sistemas de registros.
+
+Nombre de Recurso Uniforme (URN)
+Se utiliza para identificar recursos en la web, sin especificar directamente 
+el lugar donde se encuentra.
+
+Notación de Objetos de JavaScript (JSON)
+Es un formato ligero usado como alternativa al XML para intercambio 
+de datos.
+
+Notación Sintáctica Abstracta 1 (ASN.1)
+Es una norma con una librería de tipos de datos y constructores que 
+permiten definir estructuras de datos complejas.
+Notación Turtle (N3)
+Conocido también como Lenguaje de Notación 3 o “N3”, es un 
+lenguaje utilizado para sintaxis XML de RDF.
+Protocolo de Acceso a Mensajes de Internet  (IMAP)
+Es un protocolo utilizado para acceder a mensajes y correos electrónicos 
+alojados en servidores en el internet.
+
+Norma sobre la Prestación y Automatización de los
+
+78 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Protocolo de Acceso a Objetos Simple (SOAP)
+Es un protocolo estándar de comunicación entre dos objetos por medio 
+de XML.
+
+Protocolo de Estado de Certificados Fuera de Línea (OCSP)
+Es un protocolo creado con la finalidad de determinar el estado de un 
+certificado digital.
+
+Protocolo de Oficina de Correo 3 (POP3)
+Es un protocolo utilizado de manera local para la obtención de correos 
+electrónicos almacenados en un servidor remoto.
+
+Protocolo de Servicio Web JSON (JSON-WSP)
+Es un protocolo de servicio Web usado por JSON para la descripción de 
+servicios, respuestas y solicitudes.
+
+Protocolo de Tiempo de Red (NTP)
+Es un protocolo de internet creado con el fin de sincronizar los relojes 
+de los sistemas informáticos.
+
+Protocolo de Transferencia de Archivos Seguro (SFTP)
+Es un protocolo de red de utilizado para acceder y manejar archivos de 
+manera remota utilizando métodos de encriptación.
+
+Protocolo de Transferencia de Archivos/ Capa de Conexión Segura (FTP/SSL)
+Es un protocolo utilizado para la transferencia de archivos, el cual utiliza 
+las propiedades de seguridad brindadas por el SSL para la comunicación.
+
+Protocolo de Transferencia de Hipertexto (HTTP)
+Es un protocolo utilizado para realizar la transferencia de texto o 
+hipervínculos, a través de la web.
+
+Protocolo Ligero de Acceso a Directorios (LDAP)
+Es un protocolo ligero de acceso a una librería de datos organizados 
+lógica y jerárquicamente.
+
+Protocolo para la Transferencia Simple de Correo Electrónico (SMTP)
+Hace referencia a un protocolo simple de envió de correos electrónicos.
+
+Protocolo Seguro de Internet (IPSec)
+Es un conjunto de protocolos de seguridad para proteger la comunicación 
+IP y transmisión de paquetes en internet.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 79
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Protocolo Seguro de Transferencia de Hipertexto (HTTPS)
+Es un protocolo utilizado para realizar la transferencia de texto o 
+hipervínculos de manera segura mediante el uso de cifrado, a través de 
+la web.
+
+Red de Entrega de Contenido (CDN)
+Es una red de computadores en la cual se disponen copias de datos 
+alojados en diferentes lugares de la red, con el objetivo de que los 
+usuarios puedan tener un acceso más rápido a dichos datos.
+Seguridad de la Capa de Transporte (TLS)
+Se encarga de proporcionar privacidad e integridad de datos entre dos 
+aplicaciones que se comunican a través del internet.
+
+Seguridad en los Servicios Web (WS-Security)
+Es un protocolo de comunicaciones que permite agregar seguridad a los 
+servicios web.
+Servicios de Datos Extendidos (XDS)
+Es un estándar americano utilizado para el envío de metadatos a través 
+de una señal analógica de video de televisión.
+Servicios de Función Web (WFS)
+Es un servicio que permite interactuar con mapas por medio de sus 
+criterios geográficos para analizar sus datos.
+
+Servicio de Mensajes Simples (SMS)
+Es un servicio de telefonía móvil para el envío de mensajes cortos.
+
+Servicios Web
+Es una tecnología que se utiliza para intercambiar datos entre 
+aplicaciones, implementando ciertos estándares y protocolos.
+
+Sistemas de Nombre de Dominios (DNS)
+Es un sistema de nombres jerárquicos los cuales son traducidos en 
+direcciones IP.
+Software
+Se refiere a todos los componentes lógicos o intangibles de un sistema 
+de información, tales como programas, aplicaciones, sistemas operativos, 
+entre otros. Telecomunicaciones.
+
+Spam
+También conocido como correo basura, se caracterizan por correos 
+electrónicos que son enviados por fuentes no conocidas, con la finalidad 
+de promover algún producto o servicio.
+
+Norma sobre la Prestación y Automatización de los
+
+80 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Tag
+Es una etiqueta o palabras clave para enriquecer los atributos de un 
+dato específico.
+
+Telemercadeo
+Es una forma de mercadeo directo en el cual se usan diferentes medios 
+de comunicación para asesorar a un cliente o empresa.
+
+Texto simple (TXT)
+Es un documento de texto plano.
+
+Valores Separados por Comas (CSV)
+Es un formato de archivo de datos que su contenido está separado por 
+comas.
+
+Valores Separados por Tabulaciones (TSV)
+Es un formato de texto simple utilizado para el almacenamiento de 
+información en forma de tablas. En este, cada registro de la tabla 
+representa una línea del archivo de texto.
+
+Ventanilla Única
+Es un instrumento multicanal (presencial, telefónico o telemático), 
+que permite agrupar en una sola instancia todos los trámites que el 
+ciudadano debe realizar ante la Administración Pública competente y 
+los entes y órganos administrativos que la conforman.
+
+Vocabulario para Catálogo de Datos (DCAT)
+Es un estándar definido por el Consorcio World Wide Web (W3C) 
+y diseñado para facilitar la interoperabilidad entre catálogos de datos 
+publicados en la Web.
+
+Web
+Es un sistema de documentación de hipertexto distribuido, los cuales se 
+encuentran interconectados y accesibles desde la web.
+
+XML Abierto Estricto
+Es un formato de archivo abierto destinado para el almacenamiento 
+de hojas de cálculo, graficas, presentaciones y documentos de texto. 
+También conocido como Strict Office Open XML.
+
+ZIP
+Es un formato de compresión de archivos sin pérdida que comprime 
+cada uno de los archivos de forma separada.
+ 
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 81
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+ABREVIATURAS Y ACRÓNIMOS
+
+Abreviaturas 
+No. Inglés Español
+
+y Acrónimos
+
+1 ASN Abstract Syntax Notation Notación Sintáctica Abstracta
+
+2 ASN.1 Abstract Syntax Notation 1 Notación Sintáctica Abstracta 1
+
+3 CAP N/A Centro de Atención Presencial
+
+4 CCG N/A Centro de Contacto Gubernamental
+
+5 CDN Content Delivery Network Red de Entrega de Contenido
+
+Customer Relationship Administración Basada en la Relación 
+6 CRM
+
+Management con los Clientes
+
+7 CSV Comma-Separated Values Valores Separados por Comas
+
+8 DCAT Data Catalog Vocabulary Vocabulario para Catálogo de Datos
+
+9 DNS Domain Name System Sistemas de Nombre de Dominios
+
+Estandarización, Normativas y 
+10 ENAT N/A
+
+Auditoría Técnica
+
+Sistemas de Planificación de Recursos 
+11 ERP Enterprise Resource Planning
+
+Empresariales
+
+European 
+Telecommunications Reporte Técnico del Instituto Europeo 
+
+12 ETSI TR 
+Standards Institute Technical de Normas de Telecomunicaciones
+Report
+
+13 FEDUMU N/A Federación Dominicana de Municipios
+
+14 FTP File Transfer Protocol Protocolo de Transferencia de Archivos
+
+Protocolo de Transferencia de Archivos 
+File Transfer Protocol / 
+
+15 FTPS / Protocolo de Capa de Conexión 
+Secure Sockets Layer
+
+Segura
+
+Geographic Markup 
+16 GML Lenguaje de Marcado Geográfico
+
+Languages
+
+17 GZIP GZIP Zip bajo licencia GNU
+
+Hyper Text Markup 
+18 HTML Lenguaje de Marcas de Hipertexto
+
+Language
+
+Hyper Text Markup Lenguaje de Marcas de Hipertexto, 
+19 HTML5
+
+Language, version 5 versión 5
+
+Protocolo de Transferencia de 
+20 HTTP Hypertext Transfer Protocol
+
+Hipertexto
+
+Norma sobre la Prestación y Automatización de los
+
+82 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+Hypertext Transfer Protocol Protocolo Seguro de Transferencia de 
+21 HTTPS
+
+Secure Hipertexto
+
+22 IAP N/A Institución de Administración Pública
+
+Internet Content Adaptation Protocolo de Adaptación de 
+23 ICAP
+
+Protocol Contenidos de Internet
+
+International 
+24 IEC Comisión Electrotécnica Internacional
+
+Electrotechnical Commission
+
+Internet Message Access Protocolo de Acceso a Mensajes de 
+25 IMAP
+
+Protocol Internet
+
+Instituto Dominicano de las 
+26 INDOTEL N/A
+
+Telecomunicaciones
+
+27 IVR Interactive Voice Response Sistema de Respuesta de Voz Interactiva
+
+28 IPSec IP Secure Seguridad del Protocolo IP
+
+Joint Photographic Experts Grupo Conjunto de Expertos en 
+29 JPG/JPEG
+
+Group Fotografía
+
+30 JSON JavaScript Object Notation Notación de Objetos de JavaScript
+
+JSON - Remote Procedure JSON- Llamada a Procedimiento 
+31 JSON-RPC
+
+Call Remoto
+
+JSON – Web Service 
+32 JSON-WSP JSON – Protocolo de Servicio Web
+
+Protocol
+
+Lightweigth Directory Access Protocolo Ligero de Acceso a 
+33 LDAP
+
+Protocol Directorios
+
+34 LESS Leaner CSS N/A
+
+35 MAP N/A Ministerio de Administración Pública
+
+Model Requirements for the 
+Modelo de requisitos para la gestión de 
+
+36 MoReq Management of Electronic 
+documentos electrónicos y registros
+
+Documents and Records
+
+37 N3 Notation 3 Notación 3
+
+38 NORTIC N/A
+
+39 NTP Network Time Protocol Protocolo de Tiempo de Red
+
+Online Certificate Status Protocolo de Estado de Certificados 
+40 OCSP
+
+Protocol en Línea
+
+Oficina Presidencial de Tecnología de la 
+41 OPTIC N/A
+
+Información y Comunicación
+
+Payment Card Industry Data Estándar de Seguridad de Datos para la 
+42 PCI DSS
+
+Security Standard Industria de Tarjeta de Pago
+Norma sobre la Prestación y Automatización de los
+
+Servicios Públicos del Estado Dominicano. 83
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+43 PDF Portable Document File Formato de Documento Portátil
+
+44 PNG Portable Network Graphics Gráficos de Red Portátiles
+
+Post Office Protocol version Protocolo de Oficina de Correo, versión 
+45 POP3
+
+3 3
+
+Preservation Metadata: Metadatos de Preservación: Estrategias 
+46 PREMIS
+
+Implementation Strategies de Implementación
+
+Resource Description 
+47 RDF Marco de Descripción de Recursos
+
+Framework
+
+Resource Description Marco de Descripción de Recursos en 
+48 RDFa
+
+Framework in Attributes Atributos
+
+Representational State Transferencia de Estado 
+49 REST
+
+Transfer Representacional
+
+System, Applications and Aplicaciones y Productos en 
+50 SAP
+
+Products Procesamiento
+
+Syntactically Awesome Hojas de Estilos Sintácticamente 
+51 SASS
+
+Stylesheets Impresionante
+
+Protocolo Seguro de Transferencia de 
+52 SFTP Secure File Transfer Protocol
+
+Archivos
+
+53 SHA Secure Hash Algorithms Algoritmo Hash Seguro
+
+Geographic Information Cartografía vectorial y Sistemas de 
+54 SIG
+
+System Información Geográfica
+
+55 SLA Service Level Agreement Acuerdos de Nivel de Servicio
+
+Simple Mail Transfer 
+56 SMTP Protocolo para la Transferencia Simple
+
+Protocol
+
+Simple Object Access 
+57 SOAP Protocolo de Acceso a Objetos Simple
+
+Protocol
+
+58 SSH Secure Shell Intérprete de Órdenes Segura
+
+59 SSL Secure Sockets Layer Capa de Conexión Segura
+
+60 SVG Scalable Vector Graphics Gráficos Vectoriales Redimensionables
+
+Tecnología de la Información y 
+61 TIC NA
+
+Comunicación
+
+Formato de Archivo de Imagen 
+62 TIFF Tagged Image File Format
+
+Etiquetado
+
+63 TLS Transport Layer Security Seguridad de la Capa de Transporte
+
+64 TSV Tab-Separated Values Valores Separados por Delimitadores
+
+Norma sobre la Prestación y Automatización de los
+
+84 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+65 TXT Text File Documento de Texto
+
+66 UCS Universal Character Set Conjunto de Caracteres Universal
+
+67 URI Uniform Resource Identifier Identificador Uniforme de Recursos
+
+68 URL Uniform Resource Locator Localizador de Recurso Uniforme
+
+69 URN Uniform Resouce Names Nombre de Recurso Uniforme
+
+8-bit Unicode Formato de Transformación Unicode 
+70 UTF-8
+
+Transformation Format de 8-bit
+
+World Wide Web 
+72 W3C Consorcio World Wide Web
+
+Consortium
+
+73 WFS Web Feature Services Servicios de Función Web
+
+74 WPS Web Processing Service Servicio de Procesamiento Web
+
+Web Services Description Lenguaje de Descripción de Servicios 
+75 WSDL
+
+Language Web
+
+76 WS-Security Web Services Security Seguridad en Servicios Web
+
+XML Advanced Electronic 
+77 XAdES Firma Electrónica Avanzada XML
+
+Signatures
+
+eXtensible HyperText Lenguaje de Marcas de Hipertexto 
+78 XHTML
+
+Markup Language Extensible
+
+79 XML eXtensible Markup Language Lenguaje de Marcas Extensible
+
+80 XML-DSig XML Singnature Firma XML
+
+81 XSD XML Schema Definition Esquema de Definición XML
+
+Su traducción literal sería “Cremallera”, 
+82 ZIP ZIP
+
+aduciendo a su función de comprimir.
+ 
+ 
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 85
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+BIBLIOGRAFÍA
+
+• Agencia Española de Protección de datos. (2013). Guía para 
+Clientes que Contraten Servicios de Cloud Computing. España.
+
+• Alcaldía de Medellín. (s.f.). Manual de Servicio al Ciudadano. 
+Colombia.
+
+• Archivo General de la Nación de Colombia. (2013). Manual de 
+Servicio al Ciudadano. Colombia.
+
+• ASOBANCARIA. (2009). Acuerdo Interbancario. Requerimientos 
+mínimos de seguridad para los servicios transaccionales ofrecidos a 
+entidades públicas. Colombia.
+
+• Bastida, L. (s.f.). Gobierno SOA: Elemento Clave en la Integración 
+de Negocio y Tecnología. España.
+
+• Biblioteca Pública Piloto. (s.f.). Manual de atencion al ciudadano. 
+Medellín, Colombia.
+
+• CENATIC. (2009). Software de Fuentes Abiertas en la 
+Administración Electrónica. Análisis del impacto de la LAESCP en 
+la Administración Pública, España.
+
+• Centro de Estudios de la Economía Digital. (s.f.). Perspectiva de la 
+Factura Electrónica en Chile. Chile.
+
+• Diario Oficial de la Unión Europea. (2014). Directiva 2014/55/
+UE Del Parlamento Europeo y del Cosejo de 16 de abril de 2014 
+relativa a la facturación eléctronica en la contratación pública. 
+Unión Europea.
+
+• Dirección General de Tributación. (2009). Resolución DGT 02-
+09. Autorización para el Uso de Factura Electrónica y Documentos 
+Electrónicos Asociados. Costa Rica.
+
+• Federación Española de Municipios y Provincias . (s.f.). Guía 
+Práctica de la Ley 11/2007 de Acceso Electrónico de los Ciudadanos 
+a Los Servicios Públicos (LAECSP). España.
+
+• Gobierno de Chile. (s.f.). Guía Digitales. En Diseño Web y 
+Estándares. Chile.
+
+• Gobierno de España. (2007). Ley de Acceso Electrónico de los 
+Ciudadanos a los Servicios Públicos. España.
+
+Norma sobre la Prestación y Automatización de los
+
+86 Servicios Públicos del Estado Dominicano.
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+• IMPLIX. (s.f.). Una Guía Rápida para Crear un Gran Formulario 
+Web.
+
+• Instituto Nacional de Estadísticas y Censos (INEC). (2012). Manual 
+de Servicio al Ciudadano. Ecuador.
+
+• ITIL V3. (2007). Continual Service Improvement. Londres: Office 
+of Goverment Commerce.
+
+• ITIL V3. (2007). Service Desing. Londres : Office of Goverment 
+Commerce.
+
+• ITIL V3. (2007). Service Operation. Londres: Office of Goverment 
+Commerce.
+
+• ITIL V3. (2007). Service Strategy. Londres: Office of Goverment 
+Commerce.
+
+• ITIL V3. (2007). Service Transition . Londres: Office of Goverment 
+Commerce.
+
+• Jefatura del Estado de España. (2013). BOE-A-2013-13722. España.
+
+• Microsoft Corporation. (2006). La Arquitectura Orientada a 
+Servicios (SOA) de Microsoft aplicada al mundo real.
+
+• Ministerio de Administración Pública (MAP). (2013). Guía para 
+el desarrollo de las cartas compromiso al ciudadano. República 
+Dominicana.
+
+• Ministerio de Economia y Hacienda . (2009). La Administración 
+Electrónica y El Servicio a los Ciudadanos. España.
+
+• Ministerio de Hacienda y Administraciones Públicas. (2012). Real 
+Decreto 1619/2012. España.
+
+• Ministerio de la Presidencia. (2007). Boletí Oficial del Estado 
+(BOE) Número 247. España.
+
+• Ministerio de Tecnologías de la Información y las Comunicaciones. 
+(s.f.). Lineamientos Detallados para la Implementación de Procesos 
+Electrónicos. Colombia.
+
+• Ministerio de Tecnologías de la Información y las Comunicaciones. 
+(s.f.). Estrategia de Gobierno en Línea . Colombia.
+
+Norma sobre la Prestación y Automatización de los
+Servicios Públicos del Estado Dominicano. 87
+
+
+
+Presidencia de la República Dominicana NORTIC A5:2015
+
+• Ministerio de Tecnologías de la Información y las Comunicaciones 
+(MINTIC). (s.f.). Lineamientos para la Implementación de Procesos 
+Electrónicos . Marco normativo. Colombia.
+
+• Ministerio Secretaría General de la Presidencia. (2014). Buenas 
+prácticas en materia de contratación de Servicios de Computación 
+en la Nube (Cloud Computing) al interior de la Administración del 
+Estado:. Un documento para el apoyo de toma de decisiones. Chile.
+
+• MINTIC . (2011). Guía de atención al ciudadano-cliente por 
+múltiples canales. Colombia.
+
+• Oficina Presidencial de Tecnologías de la Información y 
+Comunicación (OPTIC). (2014). Estratégias de Servicios 
+Ciudadanos. República Dominicana.
+
+• Vassilakis, C., & Lepouras, G. (s.f.). The Lifecycle of Transactional 
+Services. Peloponeso.
+
+• Zagarzazu, I. M. (2005). Internet, un nuevo canal de atención 
+ciudadana.
+
+Norma sobre la Prestación y Automatización de los
+
+88 Servicios Públicos del Estado Dominicano.
+
+
+
+ANEXOS
+
+Anexo A. Flujo de trabajo de un servicio transaccional.
+
+ 
+
+Este flujo de trabajo fue tomado de la página formalizate.gob.do.
+
+
+
+EQUIPO DE TRABAJO
+
+Oficina Presidencial de Tecnologías de la Información y Comunicación (OPTIC)
+Armando García, Director General
+
+Ministerio de Administración Pública (MAP)
+Ramón Ventura Camejo, Ministro
+
+Elso Segura, Vice-Ministro
+
+Departamento de Estandarización, Normativas y Auditoría Técnica 
+(ENAT)
+
+Elvyn Peguero, Gerente del ENAT
+Shalem Pérez, Auditor de Estándares NORTIC
+
+Winner Núñez, Auditor de Estándares NORTIC
+Ariel Acosta, Consultor de Estándares y Normativas
+
+Ginsy Aguilera, Consultora de Estándares y Normativas
+Hamlet Durán, Analista de Estándares y Normativas
+
+Comité de Estándares de Tecnologías de la Información y 
+Comunicación (COETIC)
+
+Carmen Mejía
+Contraloría General de la Republica Dominicana
+
+Reyson Lizardo Galvá
+Ministerio de Administración Pública (MAP)
+
+Comité Interno para la Evaluación de las Normas (CIEN)
+Charli Polanco, Director DiGOB
+José Luis Liranzo, Director TIC
+
+Pedro Gómez, Director de Planificación y Desarrollo
+Miguel Guerra, Gerente Multimedia
+
+Daniel Medrano, Gerente Telecomunicaciones
+
+Colaboradores
+Anny Arias, OPTIC
+
+Glenny Castro, OPTIC
+José Luis Hernández, OPTIC
+
+Paolo Gómez, OPTIC
+Henry Gonzalez, OPTIC
+Rudith Severino, OPTIC
+Juana Manzueta, OPTIC
+
+María Rijo, OPTIC
+Indiana Puello, MAP
+
+Rafael Pérez, MAP
+Johana Guerrero, MAP
+
+Omar Medrano, analista
+
+
+
+
+
+
+Av. 27 de Febrero #419, Santo Domingo, R.D.
+Tel: 1+ 809.286.1009   info@optic.gob.do
+
+www.optic.gob.do   www.gobiernoelectronico.gob.do
+
+OPTICRD
